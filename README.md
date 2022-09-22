@@ -24,13 +24,13 @@ Localização / Tradução Português - Brasil / PT-BR
 
    Baixe os arquivos do último _release_ e coloque na pasta do jogo destinada aos mods.
    ```
-   ??? C:\Users\NOME_DO_USUARIO\AppData\LocalLow\FlamingFowlStudios\Gloomhaven\GloomMods\L10n PT-BR\LangPacks
+   ??? descobrindo como faz :D
    ```
    
 - **GoG**
    Baixe os arquivos do último _release_ e coloque na pasta do jogo destinada aos mods.
    ```
-   ??? C:\Users\NOME_DO_USUARIO\AppData\LocalLow\FlamingFowlStudios\Gloomhaven\GloomMods\L10n PT-BR\LangPacks
+   ??? sem acesso, quando tiver, coloco aqui
    ```
 :warning: ( não esqueça de trocar **NOME_DO_USUARIO** para o usuário que você esta logado no computador )
 
