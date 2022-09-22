@@ -1,0 +1,1239 @@
+Key,Português [pt-BR]
+Demolitionist,Demolidor
+Hatchet,Machadinha
+RedGuard,Guarda Vermelho
+Voidwarden,Guardiã do Vazio
+BlackSludge,Lodo Preto
+BlackSludgeElite,Lodo Preto Elite
+BloodImp,Diabrete de Sangue
+BloodImpElite,Diabrete de Sangue Elite
+BloodMonstrosity,Monstruosidade de Sangue
+BloodMonstrosityElite,Monstruosidade de Sangue Elite
+ChaosDemon,Demônio do Caos
+ChaosDemonElite,Demônio do Caos Elite
+RatMonstrosity,Monstruosidade do Rato
+RatMonstrosityElite,Monstruosidade do Rato Elite
+VermlingRaider,Invasor Vermling
+VermlingRaiderElite,Invasor Vermling Elite
+Zealot,Fanático
+ZealotElite,Fanático Elite
+FilthySludge,Lodo Imundo
+BloodHorror,Horror de Sangue
+BloodTumor,Tumor de Sangue
+FirstOfTheOrder,Primeiro da Ordem
+CrowdMember,Fan
+EntropyDemon,Demônio da Entropia
+EntropyDemonElite,Demônio Entropia Elite
+Ward,Ala
+Pillar,Pilar
+SummonAbility_WardDisadvantage,Todos os inimigos dentro do <nobr>Alcance <sprite name=Range> 3</nobr> da Guardiã ganham Desvantagem em todos os seus ataques não concedidos pela Guardiã do Vazio.
+SummonAbility_WardPoison,Todos os inimigos que entrarem em um hexágono adjacente à guardiã ganham <nobr>VENENO <sprite name=Poison></nobr>.
+Target_OneAdjacentAlly,Atinja um aliado adjacente
+Target_AllEnemiesAdjacentToHexesMovedThrough,Atinja todos os inimigos adjacentes a algum dos hexágonos atravessados
+Xis_Shield,onde X é o valor atual do seu Escudo.
+JOTL_010_T,"Você pode adicionar <nobr>+3 Ataque <sprite name=Attack></nobr> a qualquer um de seus ataques à distância marcando-o com seu Favorito após a habilidade de ataque ser resolvida. Quando esse alvo morrer, ele derrubará seu Favorito. Se você saquear aquele hexágono, devolva seu Favorito a esta Habilidade Ativa."
+JOTL_011_T,"Se o alvo tiver seu Favorito, devolva-o à sua Habilidade Ativa."
+JOTL_015_B,Dobre o valor do seu próximo ataque nesta rodada.
+JOTL_016_B_1,Todos os inimigos adjacentes sofrem 1 de dano.
+JOTL_016_B_2,Todos os inimigos adjacentes sofrem 2 de dano.
+JOTL_018_T,Adicione <nobr>+2 de Ataque <sprite name=Attack></nobr> e ganhe <sprite name=XP1> se o alvo tiver seu Favorito.
+JOTL_019_B,Adicione <nobr>+2 Movimento <sprite name=Move></nobr> e ganhe <sprite name=XP1> se você matou um inimigo nesta rodada.
+JOTL_020_T,Escolha um aliado adjacente ao alvo do ataque
+JOTL_021_B,"Em suas próximas quatro habilidades de Movimento, adicione <nobr>+2 Movimento <sprite name=Move></nobr>."
+JOTL_022_B,Adicione <nobr>+1 Ataque <sprite name=Attack></nobr> a todos os seus ataques nesta rodada.
+JOTL_023_T,Adicione <nobr>+2 de Ataque <sprite name=Attack></nobr> e ganhe <sprite name=XP1> se o alvo tiver seu Favorito.
+JOTL_024_T,Mire em um inimigo diferente dentro de <nobr>Alcance <sprite name=Range> 2</nobr> do alvo da habilidade de Ataque anterior
+JOTL_024_B,"Em seus próximos quatro ataques, quando possível, um inimigo adjacente ao alvo sofre 2 de dano."
+JOTL_025_T,"Se este ataque matar o alvo, um inimigo adjacente ao hexágono em que morreu sofre X de dano, onde X é a quantidade de dano que o alvo teria sofrido além do necessário para matá-lo."
+JOTL_025_B,Adicione <nobr>+2 de Ataque <sprite name=Attack></nobr> e ganhe <sprite name=XP1> se você matou um inimigo nesta rodada.
+JOTL_026_T,"Em seus próximos cinco ataques, adicione <nobr>+1 Ataque <sprite name=Attack></nobr> e <nobr>FERIMENTO <sprite name=Wound></nobr>."
+JOTL_027_T,"Se um inimigo adjacente tiver seu Favorito, você pode devolvê-lo à sua Habilidade Ativa. Se o fizer, o inimigo adjacente sofre 2 de dano e ganha <nobr>FERIMENTO <sprite name=Wound></nobr>."
+JOTL_027_B,Adicione <nobr>FORTALECER <sprite name=Strengthen></nobr> e ganhe <sprite name=XP1> se você matou um inimigo nesta rodada.
+JOTL_028_B,"Nas próximas cinco vezes que um inimigo encerrar uma habilidade de Movimento dentro de um <nobr>Alcance <sprite name=Range> 5</nobr>, execute uma ação de ""<nobr>Ataque <sprite name=Attack> 2</nobr>, <nobr>Alcance <sprite name=Range> 5</nobr>"" visando aquele inimigo."
+JOTL_030_T,"Você pode adicionar <nobr>+3 Ataque <sprite name=Attack></nobr>, <nobr>FERIMENTO <sprite name=Wound></nobr> e <nobr>EMPURRAR <sprite name=Push> 1</nobr> a qualquer um de seus ataques à distância marcando-o com seu Favorito depois que a habilidade de ataque for resolvida. Quando esse alvo morrer, ele derrubará seu Favorito. Se você saquear aquele hexágono, devolva seu Favorito a esta Habilidade Ativa. Este cartão não pode estar ativo enquanto ""O Favorito"" estiver ativo."
+JOTL_031_B,Todos os inimigos adjacentes sofrem 1 de dano.
+JOTL_032_B,"Se o seu Favorito estiver dentro ou adjacente ao seu hexágono, você pode realizar"
+JOTL_033_T,"Em seus próximos cinco ataques contra um inimigo que tenha seu Favorito, adicione <nobr>+2 Ataque <sprite name=Attack></nobr>."
+JOTL_034_T,"Adicione <nobr>+2 de Ataque <sprite name=Attack></nobr> e ganhe <sprite name=XP1> se o alvo tiver seu Favorito, depois devolva a ficha para a carta dele."
+JOTL_035_B,"Nas próximas cinco vezes que você matar um inimigo, todos os inimigos adjacentes ao hexágono em que ele morreu sofrem 2 de dano."
+JOTL_036_B,Adicione <nobr>+2 Ataque <sprite name=Attack></nobr> ao seu próximo ataque neste turno se você estiver adjacente a um aliado.
+JOTL_037_T,Um inimigo normal ou de elite adjacente sofre 12 de dano.
+JOTL_037_B,"Se você matou um inimigo nesta rodada, devolva seu Favorito à sua Habilidade Ativa e ganhe <sprite name=XP1>."
+JOTL_038_B,"Nas próximas quatro vezes que você matar um inimigo, realize uma ação de ""<nobr>Cura <sprite name=Heal> 3</nobr>, <nobr>Alcance <sprite name=Range> 2</nobr>, <nobr>BENÇÃO <sprite name=Bless></nobr>""."
+JOTL_082_T,"Nos seus próximos dois ataques, adicione <nobr>+2 Ataque <sprite name=Attack></nobr>."
+JOTL_082_B,Dobre o valor do seu próximo <nobr>Movimento.</nobr>
+JOTL_083_T,Adicione <nobr>+2 de Ataque <sprite name=Attack></nobr> e ganhe <sprite name=XP1> se o alvo estiver adjacente a uma parede.
+JOTL_083_B,Um inimigo adjacente que esteja adjacente a uma parede sofre 2 de dano.
+JOTL_084_T,Todas as curas direcionadas ao alvo atacado não têm efeito nesta rodada.
+JOTL_084_B,"Destrua um obstáculo adjacente. Se você fizer isso, ganhe <sprite name=XP1> e realize"
+JOTL_085_T_1,"Destrua um obstáculo adjacente. Se você fizer isso, ganhe <sprite name=XP2> e execute"
+JOTL_085_T_2,Mire em todos os inimigos adjacentes ao obstáculo destruído
+JOTL_085_T_3,Cada alvo sofre 2 de dano.
+JOTL_086_B,Destrua um obstáculo adjacente para criar dois obstáculos de hexágono único em hexágonos vazios adjacentes ao obstáculo original.
+JOTL_088_B,"Se você abriu uma porta durante o movimento, realize"
+JOTL_089_B,"Destrua um obstáculo adjacente. Se você fizer isso, ganhe <sprite name=XP1> e realize"
+JOTL_090_T,"Adicione <nobr>EMPURRAR <sprite name=Push> 2</nobr>, <nobr>CONFUNDIR <sprite name=Muddle></nobr> e ganhe <sprite name=XP1> se este ataque atingir o mesmo inimigo da habilidade de ataque anterior."
+JOTL_091_T,"Este movimento pode terminar em um hexágono contendo um obstáculo. Se isso acontecer, ganhe <sprite name=XP1>, destrua o obstáculo e realize"
+JOTL_091_B,"Se você estiver adjacente a uma parede, crie um obstáculo de hexágono único em um hexágono vazio adjacente a você."
+JOTL_092_T,Adicione <nobr>+3 de Ataque <sprite name=Attack></nobr> e ganhe <sprite name=XP1> se o alvo for um objeto com vida.
+JOTL_092_B,Adicione <nobr>+1 Ataque <sprite name=Attack></nobr> a todos os seus ataques corpo a corpo nesta rodada.
+JOTL_093_T,Crie uma armadilha  de 3 de  com dano<nobr>CONFUNDIR <sprite name=Muddle></nobr> em um hexágono vazio dentro de um <nobr>Alcance <sprite name=Range> 3</nobr>.
+JOTL_093_B_1,"Escolha um inimigo adjacente. Se cada hexágono do movimento trouxer você para mais perto daquele inimigo, realize"
+JOTL_093_B_2,"mirando naquele inimigo, onde X é o número de hexágonos que você moveu."
+JOTL_094_B,Este movimento não é afetado por terrenos difíceis.
+JOTL_095_T,"Em seus próximos quatro ataques contra inimigos adjacentes a uma parede, adicione <nobr>+2 de Ataque <sprite name=Attack></nobr>."
+JOTL_095_B_1,"Cada vez que você entrar em um hexágono contendo um obstáculo com este movimento, destrua aquele obstáculo e adicione <nobr>+1 Movimento <sprite name=Move></nobr>."
+JOTL_095_B_2,"Todos os inimigos atravessados sofrem 1 de dano, <sprite name=XP1>."
+JOTL_096_B,"Destrua um obstáculo adjacente. Se você fizer isso, ganhe <sprite name=XP1> e todos os inimigos adjacentes ao obstáculo destruído sofrem 2 de dano."
+JOTL_097_T,"Adicione +1 de Ataque para cada hexágono de parede, obstáculo, objeto com vida, personagem ou armadilha adjacente ao alvo."
+JOTL_097_B,Mova um obstáculo adjacente ao seu hexágono inicial para um hexágono vazio adjacente a você.
+JOTL_098_T_1,"Destrua um obstáculo dentro do <nobr>Alcance <sprite name=Range> 4</nobr>. Se o fizer, realize"
+JOTL_098_T_2,Mire em todos os inimigos adjacentes ao obstáculo destruído
+JOTL_098_B,Crie três armadilhas de 3 de dano em hexágonos vazios dentro do <nobr>Alcance <sprite name=Range> 4</nobr>.
+JOTL_099_T,"Adicione <nobr>+2 Ataque <sprite name=Attack></nobr>, <nobr>FERIMENTO <sprite name=Wound></nobr> e ganhe <sprite name=XP1> se o alvo estiver adjacente a uma parede."
+JOTL_101_T_1,O valor atual e máximo do seus pontos de vida aumentam em 5.
+JOTL_101_T_2,Recupere todas as suas cartas descartadas.
+JOTL_101_B_1,"Se o alvo estiver adjacente a uma parede, você pode criar um obstáculo de hexágono único em um hexágono vazio adjacente ao alvo."
+JOTL_102_B,"Destrua um obstáculo adjacente. Se você fizer isso, ganhe <sprite name=XP1> e realize"
+JOTL_103_T,"Ignore o valor de Escudo do alvo, adicione <nobr>VENENO <sprite name=Poison></nobr> e ganhe <sprite name=XP1> se este ataque atingir o mesmo inimigo que as duas habilidades de Ataque anteriores."
+JOTL_103_B,Você e todos os aliados podem ignorar o valor do Escudo do inimigo alvo adjacente nesta rodada.
+JOTL_104_B,Cada objeto com vida dentro de <nobr>Alcance <sprite name=Range> 3</nobr> sofre 3 de dano.
+JOTL_105_T,"Nos seus próximos três ataques contra inimigos que você atacou anteriormente na mesma rodada, adicione <nobr>+3 Ataque <sprite name=Attack></nobr>."
+JOTL_105_B_1,Adicione <nobr>IMOBILIZAR <sprite name=Immobilize></nobr> a todos os seus ataques nesta rodada.
+JOTL_105_B_2,"Adicione também <nobr>CONFUNDIR <sprite name=Muddle></nobr>, <sprite name=XP1>"
+JOTL_107_T,Destrua todos os obstáculos na área alvo. Todos os aliados na área alvo sofrem 2 de dano.
+JOTL_107_B,Todos os inimigos adjacentes que estão adjacentes a uma parede sofrem 2 de dano.
+JOTL_108_T_1,"Destrua um obstáculo ou objeto com vida adjacente. Se você fizer isso, ganhe <sprite name=XP1> e realize"
+JOTL_108_T_2,Mire em todos os inimigos adjacentes ao objeto ou obstáculo destruído
+JOTL_108_B,"Destrua um obstáculo adjacente. Se você fizer isso, ganhe <sprite name=XP1> e todos os inimigos na mesma sala que o obstáculo destruído sofrem 2 de dano."
+JOTL_109_B,Você pode executar qualquer habilidade de destruir obstáculo como se um hexágono vazio dentro do alcance da habilidade contivesse um obstáculo.
+JOTL_151_T_1,Um aliado dentro do <nobr>Alcance <sprite name=Range> 3</nobr> pode realizar
+JOTL_151_T_2,Esse mesmo aliado pode realizar
+JOTL_151_B,"No início de seus próximos cinco turnos, execute uma ação ""<nobr>AMALDIÇOAR <sprite name=Curse></nobr>, <nobr>Alcance <sprite name=Range> 2</nobr>""."
+JOTL_152_T,Todos os aliados que removerem <nobr>VENENO <sprite name=Poison></nobr> com esta cura ganham <nobr>BENÇÃO <sprite name=Bless></nobr>.
+JOTL_152_B,Force todos os inimigos dentro do <nobr>Alcance <sprite name=Range> 3</nobr> a realizar
+JOTL_153_T_1,Um aliado adjacente pode realizar
+JOTL_153_T_2,"mirando no alvo do <nobr>VENENO <sprite name=Poison></nobr>. Se isso acontecer, o aliado sofre 2 pontos de dano."
+JOTL_154_B,Um aliado dentro do <nobr>Alcance <sprite name=Range> 3</nobr> pode realizar
+JOTL_155_B,Ignore a <nobr>MALDIÇÃO <sprite name=Curse></nobr> em vez disso.
+JOTL_156_T,Um aliado dentro do <nobr>Alcance <sprite name=Range> 2</nobr> pode realizar
+JOTL_157_B_1,Force um inimigo dentro do <nobr>Alcance <sprite name=Range> 3</nobr> a realizar
+JOTL_157_B_2,mirando em um inimigo de sua escolha. O inimigo atuante sofre dano igual ao dano sofrido pelo alvo.
+JOTL_158_T,Forçar o alvo a executar
+JOTL_158_B_1,Um aliado dentro do <nobr>Alcance <sprite name=Range> 3</nobr> pode realizar
+JOTL_158_B_2,"Se isso acontecer, ganhe <sprite name=XP1> e esse aliado sofre 2 de dano."
+JOTL_160_T,"O primeiro ataque realizado em cada uma de suas ações de concessão de ataque ganha Vantagem, e o alvo pode consumir qualquer <nobr>elemento <sprite name=ConsumeAny></nobr> para adicionar <nobr>+1 Ataque <sprite name=Attack></nobr> a ele. Além disso, quando você concede ataques a monstros, eles usam seu baralho de modificadores de ataque."
+JOTL_161_T_1,Force um inimigo dentro do <nobr>Alcance <sprite name=Range> 4</nobr> a realizar
+JOTL_161_T_2,mirando em um inimigo de sua escolha adjacente a eles.
+JOTL_161_T_3,<nobr>ATORDOE <sprite name=Stun></nobr> o inimigo ativo.
+JOTL_162_T_1,Force todos os inimigos dentro do <nobr>Alcance <sprite name=Range> 3</nobr> a realizar
+JOTL_162_T_2,mirando em inimigos de sua escolha adjacentes a eles.
+JOTL_163_B,Todos os aliados adjacentes sofrem 1 de dano.
+JOTL_164_T,"Nas próximas três vezes depois que um aliado atacar um inimigo com <nobr>VENENO <sprite name=Poison></nobr>, esse aliado pode realizar uma ação de""<nobr>Cura <sprite name=Heal> 1</nobr>, em si mesmo""."
+JOTL_165_T_1,Mire a si mesmo ou um aliado dentro do <nobr>Alcance <sprite name=Range> 2</nobr>
+JOTL_165_T_2,Escolha um aliado diferente dentro do <nobr>Intervalo <sprite name=Range> 3</nobr>
+JOTL_166_T,Um aliado dentro do <nobr>Alcance <sprite name=Range> 3</nobr> pode realizar
+JOTL_167_T,Embaralhe uma carta de <nobr>BENÇÃO <sprite name=Bless></nobr> no baralho de modificador de ataque do monstro.
+JOTL_167_B_1,"Na próxima vez que você conceder um ataque neste turno, adicione <nobr>+1 Ataque <sprite name=Attack></nobr> a toda a ação de Ataque."
+JOTL_167_B_2,Adicione <nobr>+2 Ataque <sprite name=Attack></nobr> em vez disso.
+JOTL_167_B_3,Todos os ataques direcionados a você adicionam <nobr>+2 Ataque <sprite name=Attack></nobr> nesta rodada. Esta carta não pode ser descartada antes do final da rodada.
+JOTL_168_T,"No início de seus próximos cinco turnos, um aliado dentro do <nobr>Alcance <sprite name=Range> 3</nobr> pode realizar uma ação ""<nobr>Ataque +2 <sprite name=Attack></nobr>""."
+JOTL_168_B_1,Ignore a <nobr>MALDIÇÃO <sprite name=Curse></nobr> em vez disso.
+JOTL_168_B_2,Um aliado dentro do <nobr>Alcance <sprite name=Range> 3</nobr> pode realizar
+JOTL_169_T_1,Force um inimigo dentro do <nobr>Alcance <sprite name=Range> 3</nobr> a realizar
+JOTL_169_T_2,mirando em todos os outros inimigos adjacentes a ele. O inimigo ativo sofre 1 de dano para cada inimigo mirado.
+JOTL_170_B_1,Force um inimigo adjacente a realizar
+JOTL_170_B_2,com você controlando a ação. Esse inimigo ganha <nobr>IMOBILIZAR <sprite name=Immobilize></nobr>.
+JOTL_172_T,Coloque uma sentinela em um hexágono vazio adjacente. É considerado um obstáculo para todos os efeitos. Todos os inimigos que entrarem em um hexágono adjacente à sentinela ganham <nobr>VENENO <sprite name=Poison></nobr>. Todos os inimigos ganham Desvantagem em todos os ataques não concedidos por você enquanto estiverem dentro do <nobr>Alcance <sprite name=Range> 3</nobr> da Sentinela.
+JOTL_172_B_1,Um aliado ou inimigo dentro do <nobr>Alcance <sprite name=Range> 3</nobr> pode realizar
+JOTL_172_B_2,mirando em um inimigo de sua escolha.
+JOTL_173_T,"Até dois aliados dentro do <nobr>Alcance <sprite name=Range> 2</nobr> sofrem 2 de dano cada. Cada aliado que o fizer, então, realiza"
+JOTL_173_B,Ignore a <nobr>MALDIÇÃO <sprite name=Curse></nobr> em vez disso.
+JOTL_174_T,"Cure todo o dano em um aliado dentro do <nobr>Alcance <sprite name=Range> 3</nobr>. Se você fizer isso, esse aliado ganha <nobr>CONFUNDIR <sprite name=Muddle></nobr>."
+JOTL_174_B,"Sempre que você ou qualquer aliado perder o <nobr>VENENO <sprite name=Poison></nobr>, ela ganha <nobr>FORTALECER <sprite name=Strengthen></nobr>."
+JOTL_175_B,Force um inimigo dentro do <nobr>Alcance <sprite name=Range> 3</nobr> a realizar
+JOTL_176_T_1,Um aliado dentro do <nobr>Alcance <sprite name=Range> 2</nobr> pode realizar
+JOTL_176_T_2,"Se o fizerem, esse aliado pode realizar"
+JOTL_176_T_3,onde X é a quantidade de dano sofrido pelo alvo do ataque.
+JOTL_177_T,"Se qualquer alvo sofrer dano nesta rodada ou este efeito ativo for cancelado antes do final da rodada, ambos os alvos perderão <nobr>ATORDOAR <sprite name=Stun></nobr>."
+JOTL_177_B,Você e todos os aliados dentro do <nobr>Alcance <sprite name=Range> 2</nobr> podem realizar
+JOTL_178_T,"Nas suas próximas três habilidades de Cura, quando possível, mire em um aliado adicional."
+JOTL_179_T_1,Force todos os outros inimigos dentro do <nobr>Alcance <sprite name=Range> 3</nobr> do alvo a realizar
+JOTL_179_T_2,mirando no alvo da habilidade Veneno.
+JOTL_179_B,Todos os aliados e inimigos dentro do <nobr>Alcance <sprite name=Range> 3</nobr> sofrem 1 de dano.
+JOTL_180_B_1,Um aliado dentro do <nobr>Alcance <sprite name=Range> 3</nobr> pode realizar
+JOTL_180_B_2,"Se isso acontecer, ganhe <sprite name=XP1> e aquele aliado ganha <nobr>VENENO <sprite name=Poison></nobr>."
+JOTL_225_B,Todos os ataques direcionados a você ganham Desvantagem nesta rodada.
+JOTL_227_B,Todos os inimigos adjacentes sofrem 1 de dano.
+JOTL_230_T,"Nas próximas cinco vezes que um inimigo entrar em um hexágono adjacente a você, esse inimigo sofrerá 2 de dano."
+JOTL_233_T,Escolha um inimigo em um alcance de 2 hexágonos
+JOTL_226_T,"Cada vez que um inimigo adjacente atacar você, esse inimigo sofrerá dano igual ao seu valor de Escudo."
+JOTL_235_B_1,Todos os inimigos atravessados sofrem 1 de dano.
+JOTL_235_B_2,"2 de dano em vez disso, <sprite name=XP1>"
+JOTL_236_T,Adicione <nobr>+3 Ataque <sprite name=Attack></nobr> se o alvo tiver uma condição negativa.
+JOTL_237_B,<nobr>Saqueie <sprite name=Loot></nobr> cada hexágono que você entrar com este movimento.
+JOTL_238_T,Todos os inimigos adjacentes sofrem 1 de dano.
+JOTL_240_T_1,"Cada vez que o alvo é atacado nesta rodada, ele sofre 1 de dano."
+JOTL_240_T_2,"2 de dano em vez disso, <sprite name=XP1>"
+JOTL_240_T_3,"Se um Fogo for consumido, em vez disso,dê 2 de dano."
+JOTL_241_T,Todos os inimigos adjacentes ao alvo sofrem 1 de dano.
+JOTL_242_T,Mire em todos os inimigos dentro de 2 hexágonos
+JOTL_244_T,"Coloque o Diabo de Areia em um hexágono vazio adjacente. É considerado uma armadilha para fins de foco e movimento dos monstros. No início de cada um de seus turnos, você pode movê-lo até 2 hexágonos e pode forçar qualquer personagem nele a se mover com ele. Sempre que um personagem se move para ele ou vice-versa (não quando se move junto), esse personagem sofre 1 de dano e ganha <nobr>CONFUNDIR <sprite name=Muddle></nobr>."
+JOTL_245_T,"Nas próximas quatro vezes que um inimigo entrar em um hexágono adjacente a você, esse inimigo ganha <nobr>DESARMAR <sprite name=Disarm></nobr>."
+JOTL_245_B,Todos os inimigos adjacentes sofrem 2 de dano.
+JOTL_247_T_1,"Um aliado adjacente pode realizar uma ação ""<nobr>Ataque <sprite name=Attack> 3</nobr>"", <sprite name=XP1>."
+JOTL_247_T_2,"Um aliado adjacente diferente pode realizar uma ação de<nobr>""Ataque <sprite name=Attack> 3</nobr>"",<sprite name=XP1>."
+JOTL_247_B,Um inimigo adjacente sofre 1 de dano.
+JOTL_250_T,"Toda vez que você for atacado nesta rodada, ganhe <nobr>Escudo <sprite name=Shield> X</nobr> para o ataque, onde X é o número de inimigos adjacentes a você no momento do ataque, até o máximo de 3."
+JOTL_250_B,"Nas próximas cinco vezes que um inimigo entrar em um hexágono adjacente a você, execute uma ação ""<nobr>Curar <sprite name=Heal> 3</nobr> em si próprio""."
+JOTL_252_T,"<nobr>+1 Ataque <sprite name=Attack></nobr>, <nobr>+2 Alcance <sprite name=Range></nobr>, todos os inimigos adjacentes ao alvo sofrem 1 de dano"
+JOTL_252_B,Todos os inimigos adjacentes sofrem 3 de dano.
+JOTL_379,Crie uma armadilha de 3 danos em um hexágono vazio adjacente mais próximo de um inimigo.
+JOTL_387,<b><size=130%>Cura <sprite name=Heal> X</size></b>\nEm si próprio\nonde X é o dano sofrido pelo alvo do ataque
+JOTL_417,Todos os inimigos adjacentes ao alvo do Ataque sofrem 1 de dano.
+JOTL_422,"Se o ataque for realizado, a Monstruosidade sofre 1 de dano."
+JOTL_423,Adicione <nobr>+1 Ataque <sprite name=Attack></nobr> se o alvo estiver adjacente a qualquer um dos aliados da Monstruosidade.
+JOTL_426,Retalia em qualquer distância
+JOTL_427,Monstruosidade sofre 1 de dano.
+JOTL_434,"O inimigo mais próximo, independentemente do alcance, sofre {0} de dano."
+Boss_FirstOfTheOrder_Special1,Todos os inimigos dentro do <nobr>Alcance <sprite name=Range> 2</nobr> sofrem 2 de dano.
+Boss_FirstOfTheOrder_Special2,"<b><size=130%><nobr>Ataque <sprite name=Attack> {0}</nobr></b></size>\nEntão <nobr>Ataque <sprite name=Attack> {1}</nobr> dentro do <nobr>Alcance <sprite name=Range> 2</nobr> do primeiro alvo, então <nobr>Ataque <sprite name=Attack> {2}</nobr> dentro do <nobr>Alcance <sprite name=Range> 2</nobr> do segundo alvo"
+Boss_BloodHorror_Special1,Reviva todos os Fanáticos mortos na área
+Boss_BloodHorror_Special2,"Salte para o Fanático morto mais distante e o ressuscite como um Morto Vivo, caso contrário, pule para o personagem mais distante e Ataque +0"
+Monstrosity_OnDeath,"Ao morrer, todos os personagens adjacentes sofrem {0} de dano."
+ABILITY_CARD_SignsOfTheVoid,Sinais do Vazio
+ABILITY_CARD_CloseToTheAbyss,Perto do Abismo
+ABILITY_CARD_GiftOfTheVoid,Presente do Vazio
+ABILITY_CARD_BlackBoon,Dádiva Negra
+ABILITY_CARD_FreezeTheSoul,Congelar a alma
+ABILITY_CARD_WickedScratch,Arranhão Maligno
+ABILITY_CARD_TurnOutTheLights,Apague as luzes
+ABILITY_CARD_LureOfTheVoid,Atração do Vazio
+ABILITY_CARD_GraspOfDoom,Agarra da Perdição
+ABILITY_CARD_MasterInfluence,Influência Mestre
+ABILITY_CARD_Suggestion,Sugestão
+ABILITY_CARD_ResignedFrenzy,Frenesi resignado
+ABILITY_CARD_ColdEmbrace,Abraço Frio
+ABILITY_CARD_SapWarmth,Calor da seiva
+ABILITY_CARD_GiveAndTake,Dar e receber
+ABILITY_CARD_CrushingCold,Frio Esmagador
+ABILITY_CARD_TauntingFate,Provocando o Destino
+ABILITY_CARD_CommandingPresence,Presença dominante
+ABILITY_CARD_SavageInstinct,Instinto Selvagem
+ABILITY_CARD_TheLastJourney,A última viagem
+ABILITY_CARD_StandFast,Aguente firme
+ABILITY_CARD_WitheringConviction,Convicção fulminante
+ABILITY_CARD_SurgeOfPower,Surto de energia
+ABILITY_CARD_HatefulBlast,Explosão de ódio
+ABILITY_CARD_SpiritHunger,Fome de Espírito
+ABILITY_CARD_LullIntoOblivion,Cair no esquecimento
+ABILITY_CARD_EmpoweredLink,Link habilitado
+ABILITY_CARD_EyeOfTheVoid,Olho do Vazio
+ABILITY_CARD_PossessedByFate,Possuído pelo destino
+ABILITY_CARD_SwiftStrength,Força Rápida
+ABILITY_CARD_HealingSands,Areias de Cura
+ABILITY_CARD_ShieldSpikes,Escudo de Espinhos
+ABILITY_CARD_FlamingSickle,Foice Flamejante
+ABILITY_CARD_BlindingSickle,Foice Cegante
+ABILITY_CARD_TwirlingStabs,Facadas giratórias
+ABILITY_CARD_FlameShroud,Sudário Flamejante
+ABILITY_CARD_ShockingAdvance,Avanço Chocante
+ABILITY_CARD_ShieldOfTheDesert,Escudo do Deserto
+ABILITY_CARD_DesertNight,Noite do Deserto
+ABILITY_CARD_WarriorOfTheSun,Guerreiro do Sol
+ABILITY_CARD_BladeDance,Dança da Lâmina
+ABILITY_CARD_PrecisionStrike,Golpe de precisão
+ABILITY_CARD_HarvestSickle,Foice de colheita
+ABILITY_CARD_BarbaricInstincts,Instintos bárbaros
+ABILITY_CARD_WarmthOfTheSun,Calor do Sol
+ABILITY_CARD_StranglingChain,Corrente de estrangulamento
+ABILITY_CARD_RadiantSickle,Foice Radiante
+ABILITY_CARD_BurnAwayTheDark,Queime a escuridão
+ABILITY_CARD_SandDevil,Diabo de Areia
+ABILITY_CARD_FierceBrilliance,Brilho feroz
+ABILITY_CARD_FlyingSickle,Foice Voadora
+ABILITY_CARD_ViciousBallet,Balé Vicioso
+ABILITY_CARD_HornsOfTheBeast,Chifres da Besta
+ABILITY_CARD_PrismaticSickle,Foice Prismática
+ABILITY_CARD_NoFear,Sem medo
+ABILITY_CARD_SoaringShield,Escudo Voador
+ABILITY_CARD_HonorableFury,Fúria Honrosa
+ABILITY_CARD_TheFavorite,O favorito
+ABILITY_CARD_Retrieval,Recuperação
+ABILITY_CARD_CloseCuts,Fechar cortes
+ABILITY_CARD_CenterMass,Centro de Massa
+ABILITY_CARD_StoppingPower,Poder de parada
+ABILITY_CARD_DoubleThrow,Arremesso Duplo
+ABILITY_CARD_DisorientingBarrage,Barragem Desorientadora
+ABILITY_CARD_PowerPitch,Afinação de potência
+ABILITY_CARD_FollowThrough,Siga em frente
+ABILITY_CARD_SecondWind,Segundo Vento
+ABILITY_CARD_CarePackage,Pacote de ajuda
+ABILITY_CARD_ExtraLift,Elevação Extra
+ABILITY_CARD_FancyHat,Chapéu de fantasia
+ABILITY_CARD_RepeatShot,Repetir tiro
+ABILITY_CARD_Ricochet,Ricochete
+ABILITY_CARD_FearsomeEfficiency,Eficiência Temível
+ABILITY_CARD_SharpenedBlades,Lâminas Afiadas
+ABILITY_CARD_RippedFromTheFlesh,Arrancado da carne
+ABILITY_CARD_Overwatch,Vigilância
+ABILITY_CARD_TheNewFavorite,O novo favorito
+ABILITY_CARD_Bombardment,Bombardeamento
+ABILITY_CARD_QuickTurnaround,Resposta rápida
+ABILITY_CARD_ExcessiveForce,Força excessiva
+ABILITY_CARD_Brutalize,Brutalizar
+ABILITY_CARD_Shrapnel,Estilhaços
+ABILITY_CARD_Camaraderie,Camaradagem
+ABILITY_CARD_ExecutionersAxe,Machado dos Carrascos
+ABILITY_CARD_HeartSeeker,Buscador de corações
+ABILITY_CARD_Windup,Conclusão
+ABILITY_CARD_CrushingWeight,Peso Esmagador
+ABILITY_CARD_KnockOutTheSupport,Acabe com o suporte
+ABILITY_CARD_Explode,Explodir
+ABILITY_CARD_Implode,Implodir
+ABILITY_CARD_PistonPunch,Soco de Pistão
+ABILITY_CARD_ExplosiveBlitz,Blitz Explosiva
+ABILITY_CARD_TheBigOne,O Maior
+ABILITY_CARD_OneTwoPunch,Soco Duplo
+ABILITY_CARD_Rubble,Destroços
+ABILITY_CARD_Level,Nível
+ABILITY_CARD_LobbedCharge,Carga arremessada
+ABILITY_CARD_RoboticEnhancement,Aprimoramento Robótico
+ABILITY_CARD_CrashProtocol,Protocolo de falha
+ABILITY_CARD_FireBombs,Bombas de Fogo
+ABILITY_CARD_NowhereToRun,Sem lugar para correr
+ABILITY_CARD_RemoteDetonation,Detonação Remota
+ABILITY_CARD_ExtraFuel,Combustível Extra
+ABILITY_CARD_MechSuit,Traje Mecânico
+ABILITY_CARD_DustCloud,Nuvem de poeira
+ABILITY_CARD_DrillFist,Punho de Perfuração
+ABILITY_CARD_MicroMissiles,Micro Mísseis
+ABILITY_CARD_InsultToInjury,Insulto a Lesão
+ABILITY_CARD_GutPunch,Soco no intestino
+ABILITY_CARD_TheBiggerOne,O Maior ainda
+ABILITY_CARD_CollateralDamage,Dano Colateral
+ABILITY_CARD_WholesaleDestruction,Destruição por atacado
+item_name_oakcharm,Amuleto de Carvalho
+item_oakcharm,"Durante seu turno, realize uma ação <nobr>""Abençoar <sprite name=Bless>,</nobr> <nobr>Alcance <sprite name=Range> 5""</nobr>."
+item_name_blackcandle,Vela Negra
+item_blackcandle,"Durante seu ataque à distância, adicione <nobr>MALDIÇÃO <sprite name=Curse> a um único ataque."
+item_name_robesofcommand,Vestes de Comando
+item_robesofcommand,"Durante seu turno, um aliado adjacente pode realizar uma ação <nobr>""Ataque <sprite name=Attack> 2</nobr>""."
+item_name_barbedaxe,Machado farpado
+item_barbedaxe,"Durante seu ataque, adicione <nobr>FERIMENTO <sprite name=Wound></nobr> a toda a ação de ataque."
+item_name_bladedarmor,Armadura de Lâminas
+item_bladedarmor,"Ao receber dano de um ataque, ganhe <nobr>Escudo <sprite name=Shield> 2</nobr> para o ataque e o atacante sofre 2 de dano."
+item_name_ringofrestoration,Anel de Restauração
+item_ringofrestoration,"Durante seu turno, execute uma ação <nobr>""Curar <sprite name=Heal> 3,</nobr> <nobr>Alcance <sprite name=Range> 5""</nobr>."
+item_name_ringofstrength,Anel da Força
+item_ringofstrength,"Durante seu turno, ganhe <nobr>FORTIFICAR<sprite name=Strengthen>."
+item_name_chainarmor,Cota de Malha
+item_chainarmor,"Durante seu turno, ganhe <nobr>Escudo <sprite name=Shield> 1</nobr> pelo resto da rodada."
+item_name_throwinghammer,Martelo de arremesso
+item_throwinghammer,"Durante seu ataque à distância, adicione <nobr>ATORDOAR <sprite name=Stun> a um único ataque."
+item_name_jetboots,Botas a jato
+item_jetboots,"Durante o movimento, adicione <nobr>+1 Mover <sprite name=Move></nobr> e <nobr>Saltar <sprite name=Jump> </nobr>a um único movimento."
+item_name_weatheredboots,Botas Desgastadas
+item_weatheredboots,"Durante seu movimento, adicione <nobr>+1 Mover <sprite name=Move> </nobr>a um único movimento."
+EVENT_ROAD_JOTL_01_INTRO,"Existe um ditado: ""Mexa com o Leão Adormecido e você será esfaqueado."" Hoje é um daqueles dias em que você ganha aquele desconto na bebida.
+
+Você bate na porta de Xain, um Orchid que passou de dar garantias para dar desculpas. Ele abre a porta e você o avisa que é hora de pagar a conta.
+
+""Ah, vamos lá, ele enviou vocês? Certo, certo... o problema é que você está um dia adiantado. Tenho muito ouro vindo em minha direção, uma grande quantidade de algumas apostas. Dinheiro garantido.""
+
+Você percebe algumas malas no corredor. Xain fala. ""Ah, isso não é nada. Era apenas o meu plano B, nada demais. Não precisa mais disso. Estou rolando em dinheiro! Ou pelo menos, estarei amanhã. Caramba, eu até estaria disposto a lhe jogar algo pelo atraso."""
+EVENT_ROAD_JOTL_01_OPTION_A,Não acredito. Ele deve pagar agora.
+EVENT_ROAD_JOTL_01_OPTION_B,Um pouco de confiança ajuda bastante. Volte amanhã.
+EVENT_ROAD_JOTL_01_RESULT_A,"Você sacode Xain para cair o que quer que ele tenha nele. Ele se queixa de não ter o ouro, mas você junta o suficiente para pagar a maior parte da dívida dele. Para compensar a diferença, você se pega uma de suas bugigangas na saída. Pode ser útil, ou você pode simplesmente penhorar por algum dinheiro para beber."
+EVENT_ROAD_JOTL_01_RESULT_B,"Você entra no Leão Adormecido no dia seguinte e encontra Xain esperando por você. Ele está ostentando um conjunto de anéis de ouro grossos, e um colar ostensivo pendurado no pescoço, captando a luz.
+
+
+
+""Amigos! Haha! Bem-vindo, as bebidas são por minha conta! Eu disse que estaria rolando nele! Ah, e uma pequena gorjeta pela sua confiança..."""
+EVENT_ROAD_JOTL_02_INTRO,"Por um longo tempo, você trazia sua roupa suja para os Savvas ao longo do rio pela Ala das Escamas. Mas depois de sua última batalha com algumas víboras gigantes, os Savvas se recusaram a aceitar fazer negócio com você, com medo por não saber onde o sangue terminava e o veneno começava. Recentemente, você tem levado sua roupas para um Quatryl atarracado que administra uma lavanderia automática. Ele não se importa com a condição do que você deixa suas roupas ou faz perguntas sobre como elas ficaram assim.
+
+""Olá de novo!"" ele grita com um sorriso cheio de dentes enquanto você entra. Mas então, percebendo os olhares desconfortáveis de seus clientes mais delicados com a visão do veneno pingando de sua armadura no chão, ele acrescenta "".. .err, pela primeira vez. Como posso ajudar?"""
+EVENT_ROAD_JOTL_02_OPTION_A,Deixe suas roupas sujas e armaduras para limpeza e conserto.
+EVENT_ROAD_JOTL_02_OPTION_B,Pegue a dica e volte mais tarde.
+EVENT_ROAD_JOTL_02_RESULT_A,"Você entrega suas roupas e armaduras, e as máquinas começam a trabalhar, mergulhando suas vestimentas em caldeirões quentes de água e sabão, torcendo-as e golpeando-as com rajadas de vapor. O Quatryl identifica buracos ou rasgos e enfileira braços de costura automáticos para reparar cada problema. Todo o processo afunila em um complicado tear de fios que de alguma forma dobra suas roupas em um pacote apertado para entrega, e uma calha joga a pilha de volta para você, deixando escapar um último vapor de satisfação."
+EVENT_ROAD_JOTL_02_RESULT_B,"Você age confuso e perdido, finge estar procurando o arsenal, e então volta algumas horas depois para ver o Quatryl. ""Todo o dinheiro está nas roupas extravagantes, mas todo o desafio está em armaduras manchadas de sangue."" Como agradecimento por sua discrição, ele lhe oferece um presente: um item de outro aventureiro que nunca voltou para reivindicá-lo."
+EVENT_ROAD_JOTL_03_INTRO,"""Quero que você saiba, eu vou fazer isso chegar aos ouvidos do Conselheiro Greymare! Ele ficará bastante interessado em ouvir os preços exorbitantes que você está cobrando por uma alfaiataria de rotina! Primitivo! Seu... seu bárbaro de cabeça dura!"" Um homem pequeno e barbudo continua gritando enquanto sai de um alfaiate no Distrito Misto. ""Vou fazer a bainha das minhas próprias roupas. Certamente não pode ser tão difícil se você conseguiu fazer um negócio disso!""
+
+Com isso ele se vira e prontamente tropeça em suas vestes, derrubando os livros encadernados em couro que carregava por toda a rua de paralelepípedos. Pelo menos um deles parece interessante..."
+EVENT_ROAD_JOTL_03_OPTION_A,Ajude-o a reunir seus livros espalhados.
+EVENT_ROAD_JOTL_03_OPTION_B,Pegue o livro mais interessante na confusão.
+EVENT_ROAD_JOTL_03_RESULT_A,"Você entrega o último dos livros enquanto ele se limpa. ""Hmph! Bem, obrigado. É bom conhecê-lo. Eu gostaria que o resto desses mercenários fossem tão úteis quanto você. Talvez haja alguns bons entre vocês. Um sinal da minha gratidão..."""
+EVENT_ROAD_JOTL_03_RESULT_B,"Você pega um livro elegante encadernado em couro escuro e vira uma página aleatória:
+
+
+
+""... na escuridão de sua caverna, insano e quebrado. Os precursores da Sublevação, um grande exército de demônios, conseguiram trazer uma civilização outrora poderosa e gloriosa ao seu fim completo e absoluto...""
+
+
+
+Deve ser algum romance de fantasia. Você larga em um beco e segue em frente."
+"
+EVENT_ROAD_JOTL_04_INTRO","Você está andando pelas barracas do Mercado Alagado quando uma exibição de frutas exóticas chama sua atenção. O proprietário o guia através de algumas das ofertas: cerejas em grão, melão de sangue - até mesmo uma noz dura que pode ser quebrada para revelar um leite adocicado. Você começa a discutir o que comprar com seus companheiros e a atenção do lojista se volta para outros clientes interessados.
+
+Com o canto do olho, você vê uma jovem Vermling estender a mão para pegar algumas frutas vermelhas de uma cesta de exibição."
+EVENT_ROAD_JOTL_04_OPTION_A,Alerte o lojista.
+EVENT_ROAD_JOTL_04_OPTION_B,Deixe deslizar. Não é seu problema.
+EVENT_ROAD_JOTL_04_RESULT_A,"O lojista afasta a mão do Vermling. ""Aqui, pegue isso e sai fora. E eu não quero ver você na minha barraca por pelo menos uma semana!"" Ele joga para a Vermling uma cabaça de aparência mole, e ela sai correndo. O lojista agradece com um pouco de moeda por sua perspicácia."
+EVENT_ROAD_JOTL_04_RESULT_B,"A Vermling enfia um punhado de frutas na boca. O suco escorre pelo queixo da criança enquanto ela corre para longe - mas ela não dá mais do que alguns passos antes de cair no chão, ofegante. O lojista imediatamente percebe o que aconteceu. ""Idiota! Bagas vermelhas de estanho são venenosas!"" Ele se inclina para baixo, jogando uma fruta verde do bolso na boca da Vermling. ""Isso deve neutralizar o veneno."" Depois de um momento, ela volta à vida e dispara para a grade de esgoto mais próxima."
+EVENT_ROAD_JOTL_05_INTRO,"“Você está andando ao longo do rio em direção ao quartel quando um Espreitador, de 1,80m de altura com garras assustadoras, sai da água na margem oposta.
+
+De repente, um grito de guerra soa, e você vê um vulto roxo cintilante pular de um prédio próximo, dobrando e rolando para uma parada elegante a poucos metros do problema. Uma mulher Valrath com cabelos esvoaçantes está de pé, uma mortalha cobre seu rosto.
+
+""""Tiss! Tisssss!"""" ela grita, batendo em um estranho instrumento de madeira para a fera. """"Tiss!""""
+
+O Espreitador pausa seu ataque e se vira para a mulher. Este monstro horrível está... confuso? """
+EVENT_ROAD_JOTL_05_OPTION_A,Ataque o Espreitador enquanto ele estiver distraído. Esta pode ser a única chance de matá-lo.
+EVENT_ROAD_JOTL_05_OPTION_B,Afaste os espectadores e dê espaço à mulher.
+EVENT_ROAD_JOTL_05_RESULT_A,"""Enquanto o Espreitador está paralisado pela mulher vestida de roxo e seus ruídos estranhos, você pula e mata a fera aquática. Você se vira para agradecer ao Valrath por sua distração, mas seu rosto é uma mistura de horror e fúria."" você o matou!?"""" ela grita enquanto seus olhos se enchem de lágrimas. """"Era apenas uma criança!""""
+
+Você rapidamente se desculpa e continua até o quartel, deixando a mulher chorando sobre a casca quebrada do Espreitador."""
+EVENT_ROAD_JOTL_05_RESULT_B,"Você mantém a multidão assustada à distância e observa enquanto a mulher circula o Espreitador batendo em seu instrumento em um ritmo hipnótico. Você quase também cai em transe enquanto a observa trabalhar, os olhos do monstro seguindo sua dança. Lentamente, o par se aproxima da água, e com um último 'Tissss' o Espreitador recua. Toda a multidão suspira aliviada, e a intrusa acena com a cabeça em agradecimento antes de se virar e desaparecer na multidão."
+EVENT_ROAD_JOTL_06_INTRO,"""Novos cartazes de procurados estão surgindo pela cidade procurando alguém que estranhamente se parece com um dos membros do seu grupo. Você precisaria entortar um pouco o nariz dele e talvez colocar um capuz sobre sua cabeça, mas provavelmente poderia coletar as quinze moedas de ouro da recompensa.
+
+Depois de um pouco de brincadeira, todos vocês concordam que seria uma loucura. Mesmo se você convencesse os guardas que o membro do seu grupo era esse bandido e recebesse a recompensa, eles teriam que escapar da prisão depois. Certamente não valeria a pena. É só uma conversa maluca entre bons amigos. Heh. De jeito nenhum, de maneira alguma , não esses amigos. unidos como..."""
+EVENT_ROAD_JOTL_06_OPTION_A,Chame os guardas.
+EVENT_ROAD_JOTL_06_OPTION_B,"Chame os guardas, em voz alta."
+EVENT_ROAD_JOTL_06_RESULT_A,"Você chama os guardas e tenta incriminar seu amigo. Infelizmente, você não consegue manter uma cara séria por tempo suficiente para selar o acordo. Os guardas o repreendem por desperdiçar seu tempo enquanto seu amigo segura um curativo sobre o nariz sangrando."
+EVENT_ROAD_JOTL_06_RESULT_B,"Apesar dos protestos de seus amigos, os guardas o prendem. Você recebe a recompensa e faz com que seu amigo pague sua própria fiança. Vocês vão rir dessa brincadeira por anos. A maioria de vocês, pelo menos."
+EVENT_ROAD_JOTL_07_INTRO,"""Você decide passar a noite no Porta Marrom, um bar nas Velhas Docas. Sentado no fundo da sala, você vê um velho curvado sobre um conjunto de contas de vidro. Ele alegremente convida você a se sentar em sua mesa. Feliz pela companhia, ele despeja algumas contas em seu punho, colocando o resto cuidadosamente no bolso do peito.
+
+""""Se importa de adivinhar quantas contas eu tenho nesta mão aqui? Faça certo e eu farei valer a pena. É mais difícil do que parece!""""
+
+Ele ri do que você supõe ter sido uma piada, mas antes que você tenha a chance de adivinhar, uma voz sussurra em seu ouvido: """"Sempre são três.""""
+
+Quando você se vira para olhar, não há ninguém lá."""
+EVENT_ROAD_JOTL_07_OPTION_A,Acho que uma conta.
+EVENT_ROAD_JOTL_07_OPTION_B,Acho que duas contas.
+EVENT_ROAD_JOTL_07_OPTION_C,Acho que três contas.
+EVENT_ROAD_JOTL_07_OPTION_D,Acho que quatro contas.
+EVENT_ROAD_JOTL_07_OPTION_E,Acho que cinco contas.
+EVENT_ROAD_JOTL_07_OPTION_F,Vá procurar a voz.
+EVENT_ROAD_JOTL_07_RESULT_A,"O velho abre a mão para mostrar três contas de vidro reluzentes. Ele dá uma risadinha, como se fosse uma piada que você deveria ter previsto."
+EVENT_ROAD_JOTL_07_RESULT_C,"O velho abre a mão com um toque dramático e um sorriso. ""Você os ouve também, não é? Os primeiros hoje à noite."" Ele ri sozinho e passa o resto da noite perdido em uma bebida, mas não antes de lhe entregar seus ganhos."
+EVENT_ROAD_JOTL_07_RESULT_F,"""Você pode ouvir o sussurro mais fraco, como um rugido surdo sobre o artista no palco. Você o segue para fora, pela rua e atrás de um armazém. Agachados sobre um pequeno globo estão dois Aesthers, que se assustam quando você aparece.
+
+Oh, desculpe. Você pode ouvir isso?"""" A Aesther bate no globo de vidro. Em voz baixa, ele murmura, """"Girou o diamente demais..."""" então ignora sua presença inteiramente. Você sai com mais perguntas do que antes."""
+EVENT_ROAD_JOTL_08_INTRO,"""Uma nuvem negra de fumaça serpenteia pelo ar sobre o centro da cidade. Você a segue para encontrar uma multidão reunida ao longo da Ponte Silenciosa, aplaudindo e aplaudindo. Empurrando para a frente, você vê duas enormes asas mecânicas de borboleta amarradas a um pequeno Quatryl. .
+
+""""Hoje, os Quatryls conquistam o céu!"""" Ele aperta um botão em seu peito, fazendo com que as asas comecem a bater e mais fumaça saia. As asas ganham velocidade, lançando rajadas de ar sobre os espectadores. Com um sorriso largo, ele se levanta cada vez mais... antes de cair no rio com um respingo dramático."""
+EVENT_ROAD_JOTL_08_OPTION_A,Mergulhe para ajudar o Quatryl.
+EVENT_ROAD_JOTL_08_OPTION_B,Segure a multidão caso a máquina exploda.
+EVENT_ROAD_JOTL_08_RESULT_A,"“Você mergulha através da fumaça ondulante e na água gelada. Os membros do Quatryl estão emaranhados nos destroços de suas asas, mas você é capaz de libertá-lo e fazer um lento progresso em direção à margem do rio.
+
+Seus olhos se arregalam quando ele percebe quem o salvou. """"Vocês caras? Oh, uau, eu sou um grande fã!"""" E enquanto você não pode ter certeza se foi o impacto ou conhecê-lo, ele desmaia. No entanto, você salvou uma vida hoje."""
+EVENT_ROAD_JOTL_08_RESULT_B,"""Enquanto os destroços queimam no rio, o corpo flácido do inventor aparece na margem do rio. A multidão preocupada observa em silêncio, temendo o pior.
+
+De repente, os olhos do Quatryl se abrem. """"FUNCIONOU!"""" ele grita. Ele se senta e começa a mexer nos pedaços de maquinaria ainda presos ao peito. """" Eu sei exatamente como consertar isso. Mais alguns ajustes e estarei voando sobre as Montanhas Pescoço de Cobre!"""""""
+EVENT_ROAD_JOTL_09_INTRO,"""Seu grupo está vagando no Mercado Afundado quando você se depara com uma comoção dentro de uma das vitrines. Um Vermling morto jaz no chão, morto por um golpe na cabeça.
+
+""""O suspeito Valrath diz: """"O Orchid fez isso!""""
+<size=50%>
+<size=100%>O suspeito Vermling diz: """"O Valrath está dizendo a verdade!""""
+<size=50%>
+<size=100%>O suspeito Inox diz: """"Se o Valrath está mentindo, o Vermling está mentindo.""""
+<size=50%>
+<size=100%>O suspeito Orchid diz: """"Não era o Vermling!""""
+
+Um par de guardas está coçando a cabeça quando um portal se abre a uma curta distância, e um Aesther com um chapéu incomum sai por ele. Ele olha além de você e diz: """"Apenas um deles está dizendo a verdade."""" Antes que você tenha a chance de perguntar mais, ele se foi."""
+EVENT_ROAD_JOTL_09_OPTION_A,O Valrath é o assassino.
+EVENT_ROAD_JOTL_09_OPTION_B,O Vermling é o assassino.
+EVENT_ROAD_JOTL_09_OPTION_C,O Inox é o assassino.
+EVENT_ROAD_JOTL_09_OPTION_D,O Orchid é o assassino.
+EVENT_ROAD_JOTL_09_RESULT_A,"""Pensando nisso mais tarde, você percebe que se o Valrath estava dizendo a verdade, então o Vermling também estava dizendo a verdade. Só poderia haver um que fosse verdadeiro, então ambos deviam estar mentindo. O Inox devia então estar dizendo a verdade, o que significa que o Orchid estava mentindo sobre não ser o Vermling.
+
+Em retrospecto, parece que você fez a escolha errada e o assassino saiu impune."""
+EVENT_ROAD_JOTL_09_RESULT_B,"Os guardas levam o infrator, um Vermling que matou seu irmão pelo dinheiro do seguro. Você se certifica de também de falar mal dos mentirosos Valrath e Orchid também. O Inox recebe pouco mais do que um rude ""obrigado"" dos guardas por seu comentário perspicaz, mas eles ficam felizes em entregar o dinheiro da recompensa para você."
+EVENT_ROAD_JOTL_10_INTRO,"""""""Uma bruxa!"""" um estivador Inox xinga alto do canto do Leão Adormecido. """"Ela saiu dos esgotos e transformou o capataz em um...*hic*...em um peixe!"""" Você volta para sua bebida, mas o homem continua gritando: """"Vou apostar três dias de pagamento para quem puder matá-la!"""" De repente, você está interessado em suas divagações.
+
+Você segue as instruções do bêbado que, previsivelmente, o deixam irremediavelmente perdido na rede de esgotos sob Gloomhaven. Você está pensando em fazer um túnel para a superfície quando ouve algo arranhando atrás de você. Você saca suas armas e se vira, pronto para a luta.
+
+Um antigo Valrath está debilmente diante de você, curvado e enrugado com a idade. Uma corda com um peixe seco está pendurada em seu pescoço. Ela ignora suas armas e silenciosamente aponta um dedo retorcido por você, para uma passagem próxima."""
+EVENT_ROAD_JOTL_10_OPTION_A,Acabe com ela e reivindique a recompensa.
+EVENT_ROAD_JOTL_10_OPTION_B,Ela é apenas uma velha eremita no esgoto. Deixe-a em paz e siga para onde ela apontou.
+EVENT_ROAD_JOTL_10_RESULT_A,"Às vezes, os estivadores contam histórias exageradas. Este não é um desses momentos. Antes que você possa usar sua arma, a bruxa está em você como um demônio, arranhando e mordendo. Depois de uma longa batalha, você sai vitorioso e manca de volta para a pousada. O Inox está ainda mais bêbado do que quando você o deixou, mas ele honra sua recompensa - que você o lembra que foi de quatro dias de pagamento. Enquanto você cuida de suas feridas com uma cerveja, você reflete que é uma pena que os estivadores não sejam mais bem remunerados."
+EVENT_ROAD_JOTL_10_RESULT_B,"Você dá adeus e começa a descer a passagem, mas a velha segue logo atrás. Ela não estava apontando sua saída, mas, em vez disso, guiando você em direção a uma pequena choupana onde um caldeirão borbulha sobre uma fogueira anêmica. O Valrath serve a cada um de vocês uma xícara da mais deliciosa sopa de peixe que você já provou e, depois de um tempo agradável bebendo em silêncio, você sai sentindo-se muito mais animado. Você se pergunta por que o estivador faria acusações tão indelicadas contra aquele pobre eremita do esgoto."
+EVENT_ROAD_JOTL_11_INTRO,"""""""Teste sua força! Você é mais forte que um Inox?""""
+
+Um homem ladra desafios para os transeuntes em uma esquina ao lado de uma máquina de teste de força. Um martelo está pronto para qualquer um corajoso o suficiente para bater na base do dispositivo e tentar tocar a campainha no topo.""""
+
+""""Prêmios fantásticos para os mais fortes, derrota esmagadora para os mais fracos! Apenas cinco moedas de ouro por pancada!"""""""
+EVENT_ROAD_JOTL_11_OPTION_A,Dê uma pandaca
+EVENT_ROAD_JOTL_11_OPTION_B,Esse Orchid não sabe quem você é? Você não precisa se provar para ninguém - esses jogos são apenas para crianças de qualquer maneira.
+EVENT_ROAD_JOTL_11_ROLLRESULT,{0} balança o martelo e marca {1}/{2}
+EVENT_ROAD_JOTL_11_RESULT_A,Fracote! Não se machuque.
+EVENT_ROAD_JOTL_11_RESULT_B,Nada mal! Boa Pancada.
+EVENT_ROAD_JOTL_11_RESULT_C,"DING! ""Incrível! Você é mais forte que um Inox!"""
+EVENT_ROAD_JOTL_11_RESULT_D,"Você vai embora, assegurando-se de que já sabe o quão forte você é. Nem as crianças que te provocam do lado de fora ferem seus sentimentos."
+EVENT_ROAD_JOTL_11_NEXT,Passe o martelo
+EVENT_ROAD_JOTL_11_END,"Você fez o seu melhor, mas se pergunta se o jogo não foi manipulado contra você."
+EVENT_ROAD_JOTL_12_INTRO,"You're walking through the Coin District when a woman in green with thick goggles springs from a nearby window and bowls you over. Coins and expensive trinkets scatter as they spill from the robber's pockets. She brushes herself off, then notices two guards peering down the alley, their attention drawn by the commotion.
+
+""Hahaha! That was a good one!"" She laughs dramatically and claps you on the back, making a show of it for the guards. She winces as someone shrieks ""Thief!"" from the window.
+
+The guards break into a run toward you, and the woman mutters, ""Follow my lead, and we all get out of this. Otherwise, we're all getting sent to the Ghost Fortress, got it?"""
+EVENT_ROAD_JOTL_12_OPTION_A,Turn her over to the guards.
+EVENT_ROAD_JOTL_12_OPTION_B,Let the thief work her charms.
+EVENT_ROAD_JOTL_12_RESULT_A,"You point to the thief and open your mouth, but she beats you to the punch. ""They did it! They jumped out that window and nearly trampled me to death!"" She clutches the stolen pearls around her neck. ""Please, guards, arrest them!""
+
+The guards ignore your confused protests and put you in iron cuffs. By the time they turn around to further question their witness, she's already gone. Even after that, it takes a little extra grease before they let you go."
+EVENT_ROAD_JOTL_12_RESULT_B,"""They went that way!"" The green-clad woman swoons against the building as the guards approach, pointing farther off into the dark alley. ""Please, you have to do something. I think they killed someone!""
+
+The guards look at each other and charge into the shadows. ""See? That wasn't so hard, was it?"" the burglar quips as she bends down to grab a fallen valuable. ""Here, for your trouble. Now, you'd better clear out before they return."""
+EVENT_ROAD_JOTL_13_INTRO,"You enter the Sleeping Lion to find your old friend, Xain, sitting at the bar. The barkeep is doing his best to ignore him. Xain's face lights up as you walk in.
+
+""Friends! My only true companions!"" Xain cheers. ""I assume you're here to pay me my management fee?""
+
+You look at him quizzically. He speaks more slowly. ""My fee? For managing your Guild's reputation. I know you think your actions mainly affect what people think of you, but I'm behind the scenes spreading the good word! Heck, I'm the one who suggested your name in the first place! Branding, y'know? Surely that's worth something."""
+EVENT_ROAD_JOTL_13_OPTION_A,Pay Xain for promoting your reputation around town.
+EVENT_ROAD_JOTL_13_OPTION_B,"Refuse to pay Xain. You can track your reputation yourself, where did he get the idea that he was important?"
+EVENT_ROAD_JOTL_13_RESULT_A,"Xain assures you your reputation is impeccable. ""I've been talking you up quite a bit around town, and the shops might agree to a small discount just so you're seen around their stores."""
+EVENT_ROAD_JOTL_13_RESULT_B,"Xain shakes his head. ""Wow, someone's really going to get a ding on their reputation. I'm marking this down.""
+
+He checks a box in a ledger of his, then mutters one more thing as he wanders off: ""This is going to have a real effect on you."""
+EVENT_ROAD_JOTL_14_INTRO,"Standing outside the Sanctuary of the Great Oak is a man with a powerful voice. Dressed in white vestments, he shouts to the assembled crowd.
+
+It is time for tithing to the Great Oak! Donate to the preservation of its majesty, and it will bless you with prosperity never before seen!"" He passes a rough-hewn wooden bowl amongst the crowd."
+EVENT_ROAD_JOTL_14_OPTION_A,Donate to the Sanctuary of the Great Oak.
+EVENT_ROAD_JOTL_14_OPTION_B,Plenty of other people donating. The Sanctuary will have a good week even without your contribution.
+EVENT_ROAD_JOTL_14_RESULT_A,"You push to the front, eager to set an example for the rest of the crowd. The Keeper of the Oak gazes at you approvingly as many more follow your lead."
+EVENT_ROAD_JOTL_14_RESULT_B,The Keeper of the Oak sees you try to sneak off into the crowd without being noticed. He looks unimpressed and mutters something under his breath.
+EVENT_ROAD_JOTL_15_INTRO,"You enter the Sleeping Lion and find Xain, a local barmate who always seems down on his luck for one reason or another, sitting at the counter. The barkeep has just refused to bring him another drink until he pays off his tab, but Xain perks up when he sees you approach.
+
+""Oh, perfect, it's you lot! Seems like this is as good a time as any to cash in on that drink you all owe me. Whaddaya say?""
+
+You don't remember owing him a drink. In fact, you're pretty sure he was supposed to buy your next round after you helped clear an imp out of his garden."
+EVENT_ROAD_JOTL_15_OPTION_A,"It's one drink, no need to kick the guy when he's down. Buy it for him."
+EVENT_ROAD_JOTL_15_OPTION_B,Remind Xain of the actual score.
+EVENT_ROAD_JOTL_15_RESULT_A,"You cough up a few coins to spot Xain a drink, and you see a hint of relief play across his face. After a few rounds, you're having a good enough time that the difference doesn't matter anyway. The real experiences are the friends you made along the way."
+EVENT_ROAD_JOTL_15_RESULT_B,"You list off the reasons you don't owe Xain a drink: the time you unglued him from the city walls, the time you delivered his box of vipers to the dockyard, the time he accidentally trapped a demon in his belt buckle, the time you broke up a fight between him and a rock he thought was a Savvas, the time you had to wean him off stamina potions, the time you had to wean him off major stamina potions, and the time you removed the ""harrower hive"" from his kitchen that turned out to be ants from a dropped pie. You sigh, then buy him a drink anyway."
+EVENT_ROAD_JOTL_16_INTRO,"A male Inox wearing a brown fur cloak and flanked by two female Valrath bodyguards enters the Sleeping Lion. Heads turn as he approaches your table, and he settles in across from your party. The two bodyguards stand a few feet away, eyeing the rest of the patrons.
+
+""You may call me Rahjek. Pleased to make your acquaintance."" His hand, heavily adorned in bone rings, picks at the grain of the wooden table. ""I have an important caravan coming in to town. Once it arrives, I'd like your assistance in bringing the contents to my warehouse... I require the services of the best. That is you, isn't it?"" A grin reveals rows of sharp teeth.
+
+Something about the whole exchange rubs you the wrong way. What could you provide that these armoured Valraths couldn't?"
+"
+EVENT_ROAD_JOTL_16_OPTION_A",Agree to help unload the caravan.
+EVENT_ROAD_JOTL_16_OPTION_B,Refuse the man. Something is off.
+EVENT_ROAD_JOTL_16_RESULT_A,"You arrive at the west gate, but the caravan is nowhere to be found. Rahjek is shouting angrily at his bodyguards - apparently the shipment was stolen in transit. You inquire about payment anyway.
+
+""I'm not going to pay you for doing nothing!"" You press the issue, since you held up your part of the bargain. He eventually passes you a few coins, but makes it clear you won't be working together again. The feeling is mutual."
+EVENT_ROAD_JOTL_16_RESULT_B,"He doesn't take kindly to being refused - it seems your response isn't something he encounters often. He stands from the table with a growl: ""You think you're the only mercenaries in this town? I'll find some other idiots to do my bidding."""
+EVENT_ROAD_JOTL_17_INTRO,"You are minding your own business in the Sleeping Lion when a rough-looking Inox sea captain rushes up to your table.
+
+""I've been told you're the folks to talk to if one has a problem."" she says. ""A number of goods have gone missing from my ship at the Old Docks. I tracked the thieves to an abandoned warehouse, but I have reason to believe they may be more than I can handle.""
+
+You look up at the huge Inox one more time and then scratch your head. Could be a lucrative opportunity, so long as you don't get killed."
+EVENT_ROAD_JOTL_17_OPTION_A,Demand payment upfront.
+EVENT_ROAD_JOTL_17_OPTION_B,Accept the job proposal.
+EVENT_ROAD_JOTL_17_RESULT_A,"Do I look like a font of money to you? the Inox yells incredulously. Your seat just got incredibly uncomfortable. ""Take the job or don't, but stop wasting my time!"""
+EVENT_ROAD_JOTL_17_RESULT_B,"The Inox breathes a sign of relief, then a smile cracks across her face. ""Good to know I can count on you,"" she says. ""We outcasts have to stick together, right?"" You are about to argue with her assessment of you when she produces some extra coin as thanks."
+EVENT_ROAD_JOTL_18_INTRO,"You notice a well-dressed Valrath merchant entering the Sleeping Lion, looking completely out of place. He scans the room, grimacing in disgust at any number of the activities going on inside. Eventually, he spots your table and approaches.
+
+""I have need of your services, mercenaries,"" he says through a perfumed handkerchief. He claims there is trouble at the New Docks. It seems there have been some strange happenings no one can explain: goods moving or disappearing altogether, eerie noises, visions of horrible demons. ""I hope you are able to investigate and stop whatever forces may be conspiring to topple our economic supremacy."""
+EVENT_ROAD_JOTL_18_OPTION_A,Demand payment upfront.
+EVENT_ROAD_JOTL_18_OPTION_B,Accept the job proposal.
+EVENT_ROAD_JOTL_18_RESULT_A,"The Valrath looks horrified by your aggressiveness, but he soon cracks under the pressure and throws some coins in your direction. ""Fine, just take care of the problem quickly!"" he demands as he runs from the establishment."
+EVENT_ROAD_JOTL_18_RESULT_B,"""Splendid!"" the Valrath says through his handkerchief. It seems a little money can go a long way in this place.
+
+So long as you can get over the smell, he adds as he turns and walks out the door."
+EVENT_ROAD_JOTL_19_INTRO,"You are deep into your third drink at the Sleeping Lion when a messenger stomps in from the cold night air. You grumble a bit as the biting wind from the open door reaches your table.
+
+The messenger appears a little lost. He is clearly looking for someone, but he isn't having much luck.
+
+""A Red Guard,"" he hesitantly mumbles. ""Is there a Red Guard somewhere in here?"""
+EVENT_ROAD_JOTL_19_OPTION_A,See what the messenger has for you.
+EVENT_ROAD_JOTL_19_OPTION_B,Do your best to ignore the man and the wind.
+EVENT_ROAD_JOTL_19_RESULT_A,"The messenger hands over a piece of paper, and the Red Guard's expression goes dark. On the parchment is nothing but a simple image of a snake coiled around a sun, but it takes a few more drinks before the Red Guard speaks again. They explain that exile from the Red Order in Jhinda typically means death, but the Red Guard fled to Gloomhaven, and now fate has caught up with them. There is a location written on the back. The Red Guard must go soon or they will be hunted."
+EVENT_ROAD_JOTL_19_RESULT_B,The messenger eventually leaves looking even more confused than when he entered.
+EVENT_ROAD_JOTL_20_INTRO,"You are enjoying a lunch of unidentifiable meat purchased from a Quatryl street vendor on the Silent Bridge when you run across a curious poster. It advertises there will be a large fighting competition in Gloomhaven Square in a matter of days.
+
+At first, you discount it as not something worth your time, but perhaps you could be interested, if you have something to prove."
+EVENT_ROAD_JOTL_20_OPTION_A,Sign up for the competition.
+EVENT_ROAD_JOTL_20_OPTION_B,Ignore the poster and continue enjoying your lunch.
+EVENT_ROAD_JOTL_20_RESULT_A,"The Hatchet is very eager to join the competition and prove they are the greatest fighter, and so you oblige. It is an individual competition, though, so the rest of you will have to cheer from the sidelines."
+EVENT_ROAD_JOTL_20_RESULT_B,"The meat is very enjoyable, though it does result in some stomach pains an hour or so later."
+EVENT_ROAD_JOTL_21_INTRO,"Your purse is quite empty after a bad night of gambling at the Sleeping Lion. You are contemplating how best to cheat without getting caught when an intense negative feeling washes over you.
+
+At first, you assume it is guilt, but you have your suspicions that it could be something far worse. You try to focus on the game, but something terrible keeps nagging at you."
+EVENT_ROAD_JOTL_21_OPTION_A,Attempt to find the root of the negative energy.
+EVENT_ROAD_JOTL_21_OPTION_B,Shake the nagging feeling and concentrate on the game.
+EVENT_ROAD_JOTL_21_RESULT_A,"The Voidwarden exits the Sleeping Lion and holds a hand up to the sky. Very quickly, they turn to the rest of the group with a panicked expression. The Voidwarden warns that something is wrong with the Void. Whatever rests inside it is stirring, and something terrible is coming as a result."
+EVENT_ROAD_JOTL_21_RESULT_B,"Eventually, your luck turns, and you are at least able to recover your lost money. You suppose the feeling wasn't so negative after all."
+EVENT_ROAD_JOTL_22_INTRO,"You are having a nice stroll through the New Market, perusing incredibly expensive wares you could never afford, when you spot a gruff looking man wading through the crowd. He seems out of place.
+
+If you had to guess, you'd say he was some sort of carpenter. As he approaches, you get the feeling that you know him, but you can't quite figure out why."
+EVENT_ROAD_JOTL_22_OPTION_A,Greet the man.
+EVENT_ROAD_JOTL_22_OPTION_B,Ignore the feeling and carry on with your business.
+EVENT_ROAD_JOTL_22_RESULT_A,"The man's face lights up as you approach. You recognize him as the Demolitionist's old boss. It turns out he's actually glad to have run across you, as he has a job that you may be uniquely suited for. He has a building in the Coin District that needs to be demolished. A wealthy merchant bought the property out from under someone else to expand his own estate. The trouble is that the previous owner is said to have cursed it in a fit of rage. Destroying it may be tricky."
+EVENT_ROAD_JOTL_22_RESULT_B,"After a little more walking, you find a truly amazing tapestry embroidered with a great battle scene between humans and Valraths, said to be recovered from an ancient storehouse in Demonsgate. It is worth more money than you've spent in your entire life."
+Quest_JOTL_001_RoadsideAmbush_NAME,Emboscada na Estrada
+Quest_JOTL_001_RoadsideAmbush_DESC,A esposa de um ferreiro local quer informações sobre onde ele pode estar.
+Quest_JOTL_001_RoadsideAmbush_LIST,Investigue um ferreiro desaparecido
+Quest_JOTL_001_RoadsideAmbush_INTRO_GH_1,"Um novo dia e enquanto cuida de uma ressaca infernal, você se arrasta para fora da cama para conhecer a esposa de um ferreiro local, Sandy, que conseguiu de alguma forma juntar dinheiro suficiente para contratá-lo para encontrar seu marido. Você não tem certeza de onde veio o dinheiro, mas, não importa a fonte, não pode ter sido fácil. Logo depois você se prepara para sair da cidade para o Rio Still para investigar."
+Quest_JOTL_001_RoadsideAmbush_INTRO_GH_2,"É verdade, Sandy foi um pouco leve no pagamento, mas você é um dos grupos de mercenários mais conhecidos nesta porcaria de cidade. Certamente, não faz mal atender um caso de caridade de vez em quando. Afinal, conseguir bons empregos é tudo sobre manter uma boa reputação. É por isso que você realmente precisa chegar ao fundo disso e não voltar para a viúva com nada além de calos nos pés."
+Quest_JOTL_001_RoadsideAmbush_INTRO_GH_3,"Além disso, você provavelmente não deveria chamá-la de viúva na cara dela, pelo menos não até que o destino do ferreiro seja confirmado.
+
+
+
+Dado, no entanto, que nenhum dos desaparecidos voltou, as perspectivas são sombrias."
+Quest_JOTL_001_RoadsideAmbush_INTRO_TRAVEL_1,"Não muito depois de passar por um dos muitos portões da cidade de Gloomhaven, você percebe um movimento à frente e imediatamente saca sua arma. O sol baixou no céu, reduzindo a visibilidade, mas você pode ver claramente algumas barricadas de madeira caindo aos pedaços bloqueando a estrada à sua frente. E, com certeza, conforme você se aproxima cautelosamente da cena, Vermlings saltam de trás das obstruções, mostrando espadas brutas e bastões afiados."
+Quest_JOTL_001_RoadsideAmbush_INTRO_TRAVEL_2,"Você tem que admitir, você está bastante cansado de estar acordado até tarde na pousada ontem, mas ainda assim, esses ratos enormes certamente escolheram o grupo errado de viajantes para emboscar hoje. Este é o seu trabalho, afinal, e estão sempre prontos para mostrar que há apenas um resultado para quem ousar ameaçá-lo."
+Quest_JOTL_001_RoadsideAmbush_INTRO,"“Ser atacado por Vermlings quando tudo o que você queria fazer era ficar em casa com uma refeição quente e uma cama macia, bem, isso te deixa louco. Louco o suficiente para matar essas criaturas sarnentas antes de desmaiar de exaustão.
+
+Claro, os Vermlings têm outros planos. Eles tagarelam sobre querer sua moeda e a carne em seus ossos. Coisas desagradáveis, realmente. Melhor ignorar o discurso deles e acabar com isso rapidamente."""
+Quest_JOTL_001_RoadsideAmbush_OUTRO_TRAVEL_1,"Você limpa o sangue do último Vermling de seu rosto, e seus pensamentos voltam para o Leão Adormecido. Certamente, eles têm um ensopado pronto agora. Seria tão perfeitamente quente e reconfortante, e é exatamente por aquele portão - tão perto que você já pode sentir o gosto ..."
+Quest_JOTL_001_RoadsideAmbush_OUTRO_TRAVEL_2,"Mas então, outro pensamento vem. É altamente incomum - descarado, na verdade - para um bando de Vermlings operar tão perto da cidade. Eles poderiam estar por trás da série de desaparecimentos?"
+Quest_JOTL_001_RoadsideAmbush_OUTRO_TRAVEL_3,"É um tiro no escuro, mas vale a pena investigar, especialmente considerando que este local de emboscada não se parece com sua base de operações. Provavelmente há um ninho por perto que, com alguma sorte, terá mais informações sobre o ferreiro desaparecido."
+Quest_JOTL_001_RoadsideAmbush_OUTRO_TRAVEL_4,E tesouro. Tesouro seria bom.
+Quest_JOTL_002_AHoleInTheWall_NAME,Um buraco na parede
+Quest_JOTL_002_AHoleInTheWall_DESC,É hora de descobrir de onde vieram os Vermlings que atacaram você.
+Quest_JOTL_002_AHoleInTheWall_LIST,Investigue a localização da Emboscada dos Vermlings
+Quest_JOTL_002_AHoleInTheWall_INTRO_GH_1,Você não pode se livrar da sensação desconfortável de que aqueles Vermlings estavam muito perto das muralhas da cidade e decidem revisitar a cena de sua emboscada. Talvez você encontre sinais do Ferreiro lá também?
+Quest_JOTL_002_AHoleInTheWall_INTRO_TRAVEL_1,Os rastros são fáceis de detectar. Vermlings nunca foram conhecidos por sua sutileza. Você segue os arranhões e os indicadores de um corpo sendo arrastado até se aproximar das paredes de Gloomhaven
+Quest_JOTL_002_AHoleInTheWall_INTRO,"O sol está muito baixo, mas algo não está certo. Isso não é apenas uma sombra projetada em uma seção inferior da parede. É um buraco. Os Vermlings fizeram um ninho para si mesmos cavando na própria parede. Quão diligente."
+Scenario_JOTL_002_AHoleInTheWall_Start_1,"Você se agacha e tenta se aproximar, mas eles devem ter guardas vigiando a entrada. Há um grito estridente e, em seguida, vários Vermlings saltam da escuridão, brandindo suas armas cegas e mal feitas. Não há escolha agora a não ser se defender."
+Quest_JOTL_002_AHoleInTheWall_OUTRO_TRAVEL_1,"Com o ninho imundo limpo dessas criaturas miseráveis, você leva seu tempo procurando em cada canto. Certamente, a guarda da cidade vai querer saber sobre isso... não pode ser seguro ter Vermlings cavando túneis através das paredes. Já é difícil o suficiente para afastar seus ataques como são."
+Quest_JOTL_002_AHoleInTheWall_OUTRO_TRAVEL_2,"Sob algumas tábuas de madeira podres, você consegue encontrar uma quantidade inesperadamente grande de ouro - e enquanto vasculha o tesouro, você encontra uma nota estranha. ele detalha alguns acordos comerciais, escritos em rabiscos grosseiros, entre os Vermlings e alguém chamado Roland."
+Quest_JOTL_002_AHoleInTheWall_OUTRO_TRAVEL_3,"Aparentemente, em troca de fornecer cadáveres frescos, Roland pagaria aos Vermlings em ouro. E a julgar pela quantidade aqui, os Vermlings conseguiram matar uma boa quantidade de pessoas antes de você acabar com isso"
+Quest_JOTL_002_AHoleInTheWall_OUTRO_TRAVEL_4,"É a única pista que você tem, então é hora de descobrir quem é esse tal de Roland. Depois de descansar no Leão Adormecido, claro."
+Quest_JOTL_003_TheBlackShip_NAME,O Navio Negro
+Quest_JOTL_003_TheBlackShip_DESC,"Roland é a chave para os desaparecimentos, hora de começar a perguntar pela cidade sobre ele"
+Quest_JOTL_003_TheBlackShip_LIST,Descubra mais sobre Roland
+Quest_JOTL_003_TheBlackShip_INTRO_GH_1,"Depois de se fartar de ensopado e descansar bastante no Leão Adormecido, você começa cedo pela manhã. A primeira ordem do dia é procurar informações sobre alguém chamado Roland que parece estar negociando a compra de cadáveres frescos, e você gostaria de saber por quê."
+Quest_JOTL_003_TheBlackShip_INTRO_GH_2,"É lento no começo, mas você eventualmente encontra um par de Vermlings no Mercado Afundado que parecem excessivamente interessados em descartar cadáveres. Depois de alguma persuasão grosseira, eles confessam que também estão sendo pagos por um homem chamado Roland para entregar os corpos. Eles até lhe dão o local de desembarque... algum navio abandonado na Antiga Doca."
+Quest_JOTL_003_TheBlackShip_INTRO,"Você desce para o cais e olha ao redor. Não demora muito para identificar o navio suspeito. Não só está vazando algum líquido preto e vil do casco, mas há dois homens vestindo mantos vermelhos montando guarda do lado de fora na doca. Depois de observá-los por algumas horas, você fica aliviado quando eles entram no navio. hora de seguir em silêncio e ver o que está acontecendo."
+Scenario_JOTL_003_TheBlackShip_Start_1,"Parece que sua tocaia não foi tão bem sucedida quanto você pensava, os homens de manto estão prontos e esperando por você... Parece que chegar ao fundo disso vai exigir quebrar mais alguns crânios."
+Scenario_JOTL_003_TheBlackShip_Room_2_1,"Você invade o porão de carga e um cheiro nefasto atinge seu rosto. Um rio de líquido preto e pegajoso flui através do navio, derramando-se entre as várias rachaduras no casco. A fonte parece estar além da porta distante, mas primeiro você terá que lutar contra mais rufiões e seus animais de estimação."
+Scenario_JOTL_003_TheBlackShip_Room_3_1,O cheiro fica ainda pior quando você finalmente abre a porta da cabine dos fundos. Mais desses loucos de manto estão realizando algum tipo de encantamento sobre um altar empilhado com membros decepados e montes de carne não identificáveis.
+Scenario_JOTL_003_TheBlackShip_Room_3_2,"Com as moscas zumbindo e o estranho canto gutural, tudo o que você quer fazer é chegar o mais longe possível, mas você tem um trabalho a fazer, então você começa com a matança."
+Scenario_JOTL_003_TheBlackShip_Success_1,"Certamente não lhe dá prazer vasculhar os restos humanos no altar, mas acaba sendo útil, entre os ataques de vômito."
+Scenario_JOTL_003_TheBlackShip_Success_2,"Você encontra um colar... um que Sandy descreveu em detalhes como nunca deixando o pescoço de seu marido. Com isso em mãos, você pode trazer pelo menos um pouco de paz para a viúva do ferreiro e informar a guarda da cidade sobre toda essa situação."
+Scenario_JOTL_003_TheBlackShip_Success_3,"Ainda assim, você tem uma leve suspeita de que este não é o fim da trilha. Esses homens de manto certamente eram todos subalternos, o que significa que Roland ainda está por aí."
+Scenario_JOTL_003_TheBlackShip_Success_4,"Pode-se argumentar que este é o trabalho do guarda da cidade, mas você vasculha a cabine do navio de qualquer maneira e encontra um mapa curioso. É uma representação rudimentar do Distrito das Caldeiras, e um edifício está claramente marcado. Certamente, não faria mal dar uma olhada."
+Quest_JOTL_004_ARitualInStone_NAME,A Ritual In Stone
+Quest_JOTL_004_ARitualInStone_DESC,"You recovered a map from the Black Ship, time to find out where it leads."
+Quest_JOTL_004_ARitualInStone_LIST,Follow the map you found
+Quest_JOTL_004_ARitualInStone_INTRO_TRAVEL_1,You arrive at the building marked on the map...an old abattoir...and find an unexpected scene. The entire building has burnt down and is now nothing more than a scorched husk.
+Quest_JOTL_004_ARitualInStone_INTRO_TRAVEL_2,"This is certainly a new development, as you clearly remember the structure standing before you left on your hunt up the Still River. And the fact that the location has been implicated in your search, well, the whole thing is rather suspicious, even if you can’t put your finger on exactly why."
+Quest_JOTL_004_ARitualInStone_INTRO_TRAVEL_3,"A little bit of searching through charred rubble isn’t going to stop you from getting to the bottom of this, though. Eventually, you uncover a set of stairs leading into a stone cellar. Given it’s the only piece of the structure intact, you make your way down."
+Quest_JOTL_004_ARitualInStone_INTRO_TRAVEL_4,"A powerful smell of death grows increasingly strong as you descend, enveloping you like a suffocating blanket, until it almost overwhelms you. Thoughts of turning back creep into your mind, but then, you hear the chanting. The tone and cadence is similar to those creeps on the ship with the bloody altar."
+Quest_JOTL_004_ARitualInStone_INTRO,"It doesn’t take much longer to find the source. A short hallway at the base of the stairs leads into a large, open room full of more red-robed zealots. Their chanting reaches a crescendo, and the whole floor begins to shake violently. Fissures erupt from the ground around four massive, rune-covered stones. Cracks form in the ceiling, sending huge chunks of rock crashing down.
+ 
+Your mind focuses pushing away the complications of the last few weeks. If you don’t end whatever ritual is going on right now, you will all be buried alive."
+Scenario_JOTL_004_ARitualInStone_Misc_1,"The tremors have subsided. You feel you’ve finally gotten a handle on things, but then, more men with robes rush from the deeper tunnels of this wretched place to aid the others."
+Scenario_JOTL_004_ARitualInStone_Success_1,"You sit on the cracked stone floor and rest for just a second, eying the dark corridors leading off from this room, praying to the Oak that more enemies don’t appear from the shadows. Luckily, the exits remain silent, but that doesn’t help with your ever-increasing sense of foreboding."
+Scenario_JOTL_004_ARitualInStone_Success_2,"Something is down in the depths of this place. So far, you’ve been blindly flailing around, trying to get to the bottom of this madness, and whatever it is...whatever answers you could hope to find...are waiting for you down that next tunnel. It’s just a matter of taking the first step."
+Quest_JOTL_005_ADeeperUnderstanding_NAME,A Deeper Understanding
+Quest_JOTL_005_ADeeperUnderstanding_DESC,"A tunnel leads further underground, it is time to see what is down there"
+Quest_JOTL_005_ADeeperUnderstanding_LIST,Venture deeper under Gloomhaven
+Quest_JOTL_005_ADeeperUnderstanding_INTRO_TRAVEL_1,"You identify the most horrid-smelling of the corridors leading off from the abattoir basement to continue your search for answers... what is happening to these corpses and why. Lighting torches, you descend into the dark recesses."
+Quest_JOTL_005_ADeeperUnderstanding_INTRO,"Moments later, you hear the scuffling of feet and hissed whispers coming from in front of you: “The ritual has been interrupted! We will finish it at the nexus, but...” There is a brief pause and then cursing. “They approach! Quickly, stall them while we complete the preparations.”
+The echo of footfalls starts to recede before another voice emerges from the darkness: “But, how? I cannot hold them off myself!”
+“Open a rift!” the first voice yells, now much farther away. “They must be stopped!”"
+Scenario_JOTL_005_ADeeperUnderstanding_Start_1,"You begin to rush forward. Clearly these maniacs don’t want you to smash your way through, so that’s exactly what you’re going to do. That is, until multiple red lights appear in front of you, violently ripping open the fabric of reality into some other plane. The circle of rifts illuminate the face of the zealot at their center, full of panic and fear."
+Scenario_JOTL_005_ADeeperUnderstanding_Start_2,"From the rifts emerge creatures of pure chaos, their movements a nightmarish flurry of claws, wings, and tendrils. One of them grabs the screaming summoner and forces him into a gaping maw in the demon’s chest. There is a wet crunch, and the man’s head disappears"
+Scenario_JOTL_005_ADeeperUnderstanding_Start_3,"While the creature finishes its meal. The others turn their attention to you. They fan out, eying you maliciously"
+Scenario_JOTL_005_ADeeperUnderstanding_Room_3_1,"As horrid as those creatures were, nothing could quite prepare you for what lies beyond this final stone door. A huge cocoon of bloody flesh pulsates madly in front of you, bulbous and wrong. Its seeping fluid drips to the floor as it thrashes with malevolence."
+Scenario_JOTL_005_ADeeperUnderstanding_Room_3_2,"The nexus needs only a little more energy!” yells a robed man, looking to you in a panic. “We’ll just have to take yours!”"
+Scenario_JOTL_005_ADeeperUnderstanding_Success_1,"The bloody sac explodes into a shower of viscera and goo, and the zealots who spent so much energy trying to protect it collapse to the ground. It is quite the awful, putrid mess, but at least it’s over."
+Scenario_JOTL_005_ADeeperUnderstanding_Success_2,"And then, one of the dying men laughs. “You think this will save your city? Doom approaches as more of our experiments grow in power. Gloomhaven will soon be engulfed in flames, and screams will echo throughout the streets. The Blood God will consume you all.”"
+Scenario_JOTL_005_ADeeperUnderstanding_Success_3,"Your thoughts return to the widow Sandy and you grab the man, demanding to know where Roland and these other experiments are, but he is gone. So instead, you grab a chunk of the tumor and decide to bring it to the University. Perhaps the researchers there can shed some more light on the 'situation'."
+Quest_JOTL_006_CorruptedResearch_NAME,Corrupted Research
+Quest_JOTL_006_CorruptedResearch_DESC,It's time to take this unpleasant chunk of the Blood Tumor to the University
+Quest_JOTL_006_CorruptedResearch_LIST,Research the Tumor
+Quest_JOTL_006_CorruptedResearch_INTRO_TRAVEL_1,"Your day starts out mundane enough, delivering a bloody piece of the tumor to some stodgy researchers at the University. You walk through the halls, getting all manner of confused and dirty looks, until you arrive at the door of one Professor Haltrip, foremost researcher of organic alchemy, or so you were told by the front desk."
+Quest_JOTL_006_CorruptedResearch_INTRO_TRAVEL_2,"“Do come in!” You hear a small, gruff voice on the other side of the door. Inside, you find an old Quatryl, made even smaller by a hunched back. He is rooting around his messy office, looking for something. When he sees you, a look of disgust crosses his face, but once you produce the tumor piece, his eyes go wide with amazement."
+Quest_JOTL_006_CorruptedResearch_INTRO_TRAVEL_3,"You explain the whole situation...the disappearances, the Vermlings, the black sludge, the earthquakes, and the tumor. You explain that there are other tumors out there, used in some nefarious, unknown plot, and then the professor sits silently in thought for an uncomfortably long amount of time."
+Quest_JOTL_006_CorruptedResearch_INTRO_TRAVEL_4,"“Well, then,” he finally starts, “we’ll need to get this to my lab with all haste. There, we should be able to run some tests to figure out what it is composed of...its various signature alchemical compositions. Once we know that, then maybe we can come up with some way to track the others down.”"
+Quest_JOTL_006_CorruptedResearch_INTRO,"You hand the tumor off to him, and then, because you have no other leads, you wait in his office for what feels like hours, staring at his disorganized assortment of books, papers, and dirty bottles of foul-smelling liquid.
+
+Then, very suddenly, your boring day becomes a lot more interesting. Haltrip bursts back into his office, his face spattered with blood. “Something has gone horribly wrong in the lab!” he screams at you and then races down the hall much faster than you would have thought possible. You follow, and he points you to a room overgrown with bloody growths, several dead lab assistants, and a swarm of monstrous rats, mutated by the growths .
+
+“It’s going to keep spreading!” Haltrip frets. “Do something, please!”"
+Scenario_JOTL_006_CorruptedResearch_Success_1,Your weapon and face are covered in streaks of black and red...the various viscera of a number of creatures you never imagined you would have to fight before today.
+Quest_JOTL_006_CorruptedResearch_OUTRO_TRAVEL_1,"""Well, then,” you hear a familiar gruff voice behind you, “this is quite the mess, and the loss of my students is a horrible tragedy...” Haltrip trails off, staring into nowhere with a forlorn look, until his eyes pass down to his hands. In them is a flat, smooth stone covered in a sticky, green film."
+Quest_JOTL_006_CorruptedResearch_OUTRO_TRAVEL_2,"""But not all is bad news,” he mutters. “Based on our tests, and the violent reaction the tumor had to that last one especially, I was able to develop a method for sensing when this particular type of organic matter is near.” He hefts the stone in his hand. “That is what the green glow is.”
+
+He then gives you each a slimy stone of your own."
+Quest_JOTL_006_CorruptedResearch_OUTRO_GH_1,"You split up and spend the next several hours scouring the streets of the city, trying to locate more of the growths. In the end, you pinpoint two locations: an abandoned set of buildings in the Sinking Market and a warehouse down at the Old Docks."
+Quest_JOTL_006_CorruptedResearch_OUTRO_GH_2,"With any luck, Roland is holed up in one of these places, and you can put an end to all of this."
+Quest_JOTL_007_SunkenTumor_NAME,Sunken Tumor
+Quest_JOTL_007_SunkenTumor_DESC,"Your stones indicate a Tumor is under the Sunken Market, time to remove it."
+Quest_JOTL_007_SunkenTumor_LIST,Investigate the Tumor in the Sinking Market
+Quest_JOTL_007_SunkenTumor_INTRO_TRAVEL_1,"The Sinking Market: a large area along the western coast of Gloomhaven, where you only go if you don’t have any money to steal or you want to operate outside the view of the city guard. The whole district is slowly sinking into the Merchant’s Bay, and the city has abandoned it, leaving it to rot of its own accord."
+Quest_JOTL_007_SunkenTumor_INTRO,"There are a great number of deserted houses in the area, half-sunk in the silt, but only one cluster shows the signs of a sinister growth within. You grip your weapon and kick in the closest door. What follows is a cacophony of screeches and the realization that Vermlings have once again entered your life. Not only that, but more of the zealots are lurking in the back of the room. More lackeys up to no good."
+Scenario_JOTL_007_SunkenTumor_Room_3_1,"You glance at the blood trail leading through the door, and you know what lies on the other side: another malevolent tumor, pulsating and dripping with a foul, dark energy. You ready yourself for the fight ahead and push forward."
+Scenario_JOTL_007_SunkenTumor_Success_1,"The pulsing of the tumor slows and then stops altogether. It is ruined, hacked up and marred beyond all recognition. The only logical thing to do is burn the remains so that it can never plague the city again."
+Quest_JOTL_007_SunkenTumor_OUTRO_TRAVEL_1,"You exit the sunken dwelling in fairly high spirits. It is done. There is one tumor left to destroy, and then hopefully the rest of these robed madmen will leave the city alone."
+Quest_JOTL_007_SunkenTumor_OUTRO_TRAVEL_2,"But then, you see it across the bay. The other tumor’s location in the Old Docks goes up in a massive column of fire. The blast wave hits you moments later, and you are knocked into the mud."
+Quest_JOTL_007_SunkenTumor_OUTRO_TRAVEL_3,"You were too late, and the explosion is surely only the beginning. You need to make your way to the Old Docks as fast as you can and stop whatever is coming next."
+Quest_JOTL_008_HiddenTumor_NAME,Hidden Tumor
+Quest_JOTL_008_HiddenTumor_DESC,"Your stones indicate a Tumor is under the Old Docks, time to remove it."
+Quest_JOTL_008_HiddenTumor_LIST,Investigate the Tumor in the Old Docks
+Quest_JOTL_008_HiddenTumor_INTRO_TRAVEL_1,"The Old Docks: were once the shining beacon of a burgeoning city’s prosperity, but after the Merchant’s Guild built their own docks on the other side of the Wall, they've become just a symbol of filth and deprivation. although there is still plenty of activity here, loading and unloading the less glamorous goods of the city like ore, hides, and fish... lots and lots of pungent fish."
+Quest_JOTL_008_HiddenTumor_INTRO,"The decline in business has left a number of dock warehouses abandoned, though the stink of the fish never truly leaves. It is at one of these deserted buildings that you find the signs of another sinister growth. You ready your weapon and burst through the door."
+Scenario_JOTL_008_HiddenTumor_Start_1,"It takes your eyes a second to adjust, but then you see the unmistakable combination of claws, wings, and tendrils lurking behind the derelict shelves of long-forgotten goods. The demons emit a guttural noise from their unnatural maws, and you prepare for the assault."
+Scenario_JOTL_008_HiddenTumor_Room_2_1,"You glance at the blood trail leading through the door, and you know what lies on the other side: another malevolent tumor, pulsating and dripping with a foul, dark energy. You ready yourself for the fight ahead and push forward."
+Scenario_JOTL_008_HiddenTumor_Success_1,"The pulsing of the tumor slows and then stops altogether. It is ruined, hacked up and marred beyond all recognition. The only logical thing to do is burn the remains so that it can never plague the city again."
+Quest_JOTL_008_HiddenTumor_OUTRO_TRAVEL_1,"You exit the abandoned warehouse in fairly high spirits. It is done. There is one tumor left to destroy, and then hopefully the rest of these robed madmen will leave the city alone."
+Quest_JOTL_008_HiddenTumor_OUTRO_TRAVEL_2,"But then, you see it across the bay. The other tumor’s location in the Sinking Market goes up in a massive column of fire. The blast wave hits you moments later, and you are knocked onto the cobblestone streets."
+Quest_JOTL_008_HiddenTumor_OUTRO_TRAVEL_3,"You were too late, and the explosion is surely only the beginning. You need to make your way to the Sinking Market as fast as you can and stop whatever is coming next."
+Quest_JOTL_009_ExplosiveEvolution_NAME,Explosive Evolution
+Quest_JOTL_009_ExplosiveEvolution_DESC,"The Tumor in the Sinking Market exploded, you need to check out the blast site"
+Quest_JOTL_009_ExplosiveEvolution_LIST,Investigate the final Tumor
+Quest_JOTL_009_ExplosiveEvolution_INTRO,"You arrive at the scene, but you are clearly too late. Twisted metal and charred wood greet you as you descend into the rubble. You dig through collapsed passageways and finding the last tumor, you realise it has grown a hard outer shell...a chrysalis."
+Scenario_JOTL_009_ExplosiveEvolution_Start_1,"A zealot appears behind you, laughing that Roland’s plan has come to fruition. As the chrysalis explodes, a new horror emerges. It is no longer an inanimate thing, but some monstrous collection of limbs and teeth that moves with vicious efficiency."
+Scenario_JOTL_009_ExplosiveEvolution_Success_1,"The horror’s tendrils whip in a mad frenzy, as if trying to grasp at the life that is quickly leaving its grotesque form."
+Scenario_JOTL_009_ExplosiveEvolution_Success_2,"As it bleeds out onto the stone floor, its movements grow more languid, until, with one final agonized screech, its terrible mass becomes still. Around it, the undead abominations it created collapse to the ground"
+Scenario_JOTL_009_ExplosiveEvolution_Success_3,"And with that, it is done. As far as you can tell, you’ve destroyed the awful creatures of blood that plagued the city, and in doing so, thwarted the vile group behind the disappearance of the blacksmith and so many others."
+Scenario_JOTL_009_ExplosiveEvolution_Success_4,"You can finally stop dodging the widow’s messages and update the city guard on everything you know. Roland seems to still be alive, but, surely, the guards can take it from here in mopping up this stupid cult, and you can go back to actually getting paid to kill things."
+Quest_JOTL_009_ExplosiveEvolution_OUTRO_GH_1,"In fact, as you walk toward the Sleeping Lion, vaguely dreaming about a hot bath, you recall a recent rumor going around about someone along the Hook Coast offering gold to mercenaries who would come fight in his “gauntlet”. That might be worth looking into."
+Quest_JOTL_009B_ExplosiveEvolution_NAME,Explosive Evolution
+Quest_JOTL_009B_ExplosiveEvolution_DESC,"The Tumor in the Old Docks exploded, you need to check out the blast site"
+Quest_JOTL_009B_ExplosiveEvolution_LIST,Investigate the final Tumor
+Quest_JOTL_009B_ExplosiveEvolution_INTRO,"You arrive at the scene, but you are clearly too late. Twisted metal and charred wood greet you as you descend into the rubble. You dig through collapsed passageways and finding the last tumor, you realise it has grown a hard outer shell...a chrysalis."
+Quest_JOTL_009B_ExplosiveEvolution_OUTRO_GH_1,"In fact, as you walk toward the Sleeping Lion, vaguely dreaming about a hot bath, you recall a recent rumor going around about someone along the Hook Coast offering gold to mercenaries who would come fight in his “gauntlet”. That might be worth looking into."
+Quest_JOTL_010_TheGauntlet_NAME,The Gauntlet
+Quest_JOTL_010_TheGauntlet_DESC,Surely there is gold on offer if you can beat this challenge?
+Quest_JOTL_010_TheGauntlet_LIST,Take part in 'The Gauntlet'
+Quest_JOTL_010_TheGauntlet_INTRO_TRAVEL_1,Anyone who builds more than a muddy tent out along the Hook Coast has to be crazy.
+Quest_JOTL_010_TheGauntlet_INTRO_TRAVEL_2,"The area, outside the walls of Gloomhaven, is under constant threat of Vermling raids. When you arrive at the “gauntlet”, there is certainly no mistaking the air of madness that comes off its builder."
+Quest_JOTL_010_TheGauntlet_INTRO_TRAVEL_3,"He is definitely a few branches short of a tree, ranting about some nebulous impending doom and his desire to, “weed out those unworthy to be called heroes.”"
+Quest_JOTL_010_TheGauntlet_INTRO,"You’ve never had much desire to be a hero yourself, but he is offering an enticing 10 gold coins to anyone who can make their way through his pets and contraptions, so you put your apprehensions aside and get up onto the rickety wooden platform. Quivering black masses of ooze greet you, along with some particularly nasty-looking explosive devices."
+Scenario_JOTL_010_TheGauntlet_Room_2_1,The sound of explosions still reverberates in your skull as you make your way through a half-destroyed wooden gate and onto the next platform.
+Scenario_JOTL_010_TheGauntlet_Room_2_2,"Here, you are met with an entirely new kind of madness. Golems of stone stare at you with dead eyes, while from your left, rusted iron nozzles spew out clouds of noxious gas that slowly drift across the narrow scaffolding."
+Scenario_JOTL_010_TheGauntlet_Room_3_1,"You enter the final part of the platform, imagining what could possibly be worse than what you’ve already experienced. 
+
+And then, you see the chaos demons."
+Scenario_JOTL_010_TheGauntlet_Room_3_2,You stand stunned for a moment. Why are there demons here? Just who is this crazed hermit that Built this thing?
+Scenario_JOTL_010_TheGauntlet_Room_3_3,"You shake your head and steel yourself to overcome these hideous creatures. 
+
+And then you notice the machinery attached to the traps in the room, which seem to be moving toward you. 
+
+This should be fun, as well."
+Scenario_JOTL_010_TheGauntlet_Success_1,"You slay the last of the creatures and step off the platform, looking for the old man. Instead, you find only a note with vaguely familiar handwriting."
+Scenario_JOTL_010_TheGauntlet_Success_2,"“Alas, you have bested the traps that have supplied me with so many mercenary corpses in the past. I suppose it is time to move on."""
+Scenario_JOTL_010_TheGauntlet_Success_3,"You are worthy opponents... no doubt why you were able to destroy my experiments... but you are still doomed, just like the rest of the city. I encourage you to simply sit back and enjoy the mayhem... Roland”
+"
+Scenario_JOTL_010_TheGauntlet_Success_4,"You sigh with annoyance. Perhaps it was wishful thinking that this business was behind you. Plus, the bastard didn’t even pay you."
+Quest_JOTL_010_TheGauntlet_OUTRO_GH_1,"You take the note to the city guard, still hoping to just wash your hands of the whole situation, but they have other ideas."
+Quest_JOTL_010_TheGauntlet_OUTRO_GH_2,"Oy, good thing you lot showed up, the captain says, ignoring the note you try to wave in his face. “We’ve picked up some more activity of this blood cult. Seems some red-robed fellows have been sighted moving in and out of the sewers in two seperate city districts."
+Quest_JOTL_010_TheGauntlet_OUTRO_GH_3,"I can’t get any of my own men to go down there, but if your famous mercenary company is willing to head into the sewers to investigate, I’d be willing to pay a hefty sum. Provided you come back alive, of course."
+Quest_JOTL_010_TheGauntlet_OUTRO_GH_4,"Flattery normally doesn’t sway you, but the “hefty sum” certain sounds good. The captain shows you the spots where the robed men have been sighted: in the slums of the Sinking Market and the much nicer streets of the Traveler’s District."
+Quest_JOTL_011_DefiledSewers_NAME,Defiled Sewers
+Quest_JOTL_011_DefiledSewers_DESC,The town guard suggested you'd find some of the red robed men here
+Quest_JOTL_011_DefiledSewers_LIST,Check for Zealots in the Sinking Market
+Quest_JOTL_011_DefiledSewers_INTRO,"You light torches as you stand before a sewer entrance in the Sinking Market, half submerged in some foul liquid. If there is anything worse than the Sinking Market, it is the sewer beneath it...a breeding ground for Vermlings, snakes, and other unsavory things. And it just smells really bad.
+
+You think for a moment how you could have gone to the Traveler’s District, the nicest area of the city. But oh no, no, you had to come here, because you can’t think of a more fitting location to find those wretched blood cultists.
+
+And so, you hold your nose and make your way in. It doesn’t take long to find a whole mess of unpleasantness...a nest of snakes and black sludge blocks the passage."
+Scenario_JOTL_011_DefiledSewers_Room_3_1,"It seems you’ll need to head upstream through the main tunnel, but the way is blocked by a huge iron sluice gate."
+Scenario_JOTL_011_DefiledSewers_Room_3_2,"Seeing no other way through this awful place than the old door on the opposite side of the sewage river, you push it open and hope for the best."
+Scenario_JOTL_011_DefiledSewers_Room_3_3,"What you get though is a nest of Vermlings. But behind the group, near a tunnel in the wall, you spot a rusty lever."
+Scenario_JOTL_011_DefiledSewers_Misc_1,"You pull on the lever and hear a great rush of water behind you.
+
+Looking back you see the main tunnel that was blocked off is now open, but a torrent of water trapped behind the gate is now free, overflowing the river."
+Scenario_JOTL_011_DefiledSewers_Misc_2,A way forward has opened. You’ll just have to fight against the current to get there.
+Scenario_JOTL_011_DefiledSewers_Success_1,"Toward the back end of the tunnel, past the gate, you are able to climb up onto a higher platform, out of the reach of the rushing waters. Eventually, the torrent subsides, but not before it washes the rest of the monsters off toward the bay."
+Scenario_JOTL_011_DefiledSewers_Success_2,"Hopefully, deeper into these tunnels you’ll find what this blood cult is up to. You're also curious about that hole the Vermlings dug in the side room. It might be worth investigating.
+"
+Quest_JOTL_012_BeguilingSewers_NAME,Beguiling Sewers
+Quest_JOTL_012_BeguilingSewers_DESC,The town guard suggested you'd find some of the red robed men here
+Quest_JOTL_012_BeguilingSewers_LIST,Check for Zealots in the Traveler's District
+Quest_JOTL_012_BeguilingSewers_INTRO_TRAVEL_1,"The Traveler’s District, where the wealthiest merchants of the city live in their giant estates, is certainly the nicest part of Gloomhaven."
+Quest_JOTL_012_BeguilingSewers_INTRO_TRAVEL_2,"You are skeptical that an area policed so heavily by the city guard would be a breeding ground for cultists, but, as the captain said, the guards rarely patrol the sewers, so it’s possible something untoward is happening down there."
+Quest_JOTL_012_BeguilingSewers_INTRO,"When you enter, you are surprised at how immaculate the tunnels are. Something is off. Sewers shouldn’t be this clean, and you feel a strange energy emanating from the pillars in this room. Looking closely by torchlight, you see small circular runes scribed all over them. Some trickery is definitely at work, and the only thing you can think to do is smash the pillars and uncover what is really going on."
+Scenario_JOTL_012_BeguilingSewers_Misc_1,"As the last of the pillars falls, the far wall flickers in and out of sight, and two archways suddenly appear, leading into a darkness beyond."
+Scenario_JOTL_012_BeguilingSewers_Misc_2,"A strong smell of death reaches your nostrils, as a purple mist creeps at the edge of your vision and more strange energy emanates beyond."
+Scenario_JOTL_012_BeguilingSewers_Success_1,"The purple mist dissipates, and with it, any illusion of a pristine sewer. The rich produce waste just like anyone else."
+Scenario_JOTL_012_BeguilingSewers_Success_2,It was all an illusion...even the horrific corpses and spirits. You raise your torch to get a better view of your new surroundings and notice a passageway deeper into the bowels of this place.
+Scenario_JOTL_012_BeguilingSewers_Success_3,"Perhaps this is what was being concealed by this whole facade. You step into the passage, intent on finding out what the cult is up to now."
+Quest_JOTL_012_BeguilingSewers_OUTRO_GH_1,"Before too long, you come across a simple ladder back up to the surface, but it seems to lead directly into one of the estates."
+Quest_JOTL_012_BeguilingSewers_OUTRO_GH_2,As you pass - you can’t help but notice the opportunity to sneak into someones fancy house and get a little bit richer.
+Quest_JOTL_013_VileHarvest_NAME,Vile Harvest
+Quest_JOTL_013_VileHarvest_DESC,Continue deeper into the sewers under the Sinking Market
+Quest_JOTL_013_VileHarvest_LIST,The deeper sewers need exploring
+Quest_JOTL_013_VileHarvest_INTRO,"You walk through the main tunnel for quite a while. The flow of the sewage running through it lessens over time, until the water is almost completely gone, leaving nothing but a thick, acrid layer of slime.
+
+And then, you see the movement up ahead at the edge of your torchlight. Small creatures - at first, you think they are more Vermlings, but these are wet - living globules of some dark red liquid. This is surely the work of the blood cult."
+Scenario_JOTL_013_VileHarvest_Room_3_1,"After fighting your way through the horrible little blood creatures, you are almost relieved not to find them in the final chamber. You’ve found more of the zealots, though, once again caught in some foreboding ritual."
+Scenario_JOTL_013_VileHarvest_Room_3_2,"Something is definitely not right.
+Black sludge languishes in a basin of fetid water in the back of the room, and as the cultists chant, you see a mass of red - growing inside the ooze."
+Scenario_JOTL_013_VileHarvest_Room_3_3,"They are producing the vile blood creatures through this dark ritual, and it must be stopped."
+Scenario_JOTL_013_VileHarvest_Success_1,"This factory of revulsion has been shut down. Every vile creature is now smashed and scattered across the floor. This is not the end, though."
+Scenario_JOTL_013_VileHarvest_Success_2,"These cultists refuse to talk or give up Roland, so the only option is to continue forward. Ahead, another passage leads deeper into this blood-soaked nightmare. More evil awaits. You feel it in your bones."
+Quest_JOTL_014_ToxicHarvest_NAME,Toxic Harvest
+Quest_JOTL_014_ToxicHarvest_DESC,Continue deeper into the sewers under the Traveler's District
+Quest_JOTL_014_ToxicHarvest_LIST,The deeper sewers need exploring
+Quest_JOTL_014_ToxicHarvest_INTRO,"Given the lengths someone went to in order to hide this passage of the sewers, you are sure it will lead somewhere meaningful. With any luck, you’ll find the last vestiges of the blood cult, cowering in a corner, and finish them off once and for all.
+
+Of course, nothing is as simple as that. After some investigation, you begin to hear chanting and the hissing of snakes in the tunnel ahead of you."
+Scenario_JOTL_014_ToxicHarvest_Start_1,"You move forward and demand to know where Roland is, but these blood-obsessed idiots are not particularly talkative."
+Scenario_JOTL_014_ToxicHarvest_Success_1,You try to block the image of the bloody nightmares clawing their way out of their serpent hosts as the zealots watched and smiled. Blood given sentience? and some vile intent? - the thought fills you with an empty sense of inevitability
+Scenario_JOTL_014_ToxicHarvest_Success_2,"And this was not the worst of it. These cultists refuse to talk or give up Roland, so the only option is to continue forward. Ahead, another passage leads deeper into this blood-soaked nightmare. More evil awaits. You feel it in your bones"
+Quest_JOTL_015_TaintedBlood_NAME,Tainted Blood
+Quest_JOTL_015_TaintedBlood_DESC,"Your journey into the sewers has led here, what is waiting?"
+Quest_JOTL_015_TaintedBlood_LIST,Clear the deepest part of the sewers
+Quest_JOTL_015_TaintedBlood_INTRO,"“So, you come once again to ruin my work,” a voice echoes through the dark tunnels of the sewer. It is the voice of that crazed hermit from the Hook Coast...the voice of Roland...and it drips with venom. “If only you realized how futile your efforts were. In fact, not just futile but helpful.""
+
+“We did not even realize what glorious gift our god had given us until that incident at the University. To think that the corruption we cultivated could, under the right conditions, spread so rapidly, infecting new hosts and warping them into His image.”
+
+You move forward, waving your torch to illuminate every corner of the darkness, but you can’t find the source of the voice.
+
+“And we have already poured HIS gift into the water supply. It is too late. Before long, everyone in the city will be a slave to the Blood God, and then you can sit back and watch the mayhem!”"
+Scenario_JOTL_015_TaintedBlood_Start_1,"You roar and charge forward, straight into an alcove where you find a robed man hunched in front of an alchemy table."
+Scenario_JOTL_015_TaintedBlood_Start_2,"His vials bubble over with a black liquid that splashes onto the stone floor, running in little rivulets under a door behind him. This is not Roland, but you figure you should kill him all the same."
+Scenario_JOTL_015_TaintedBlood_Success_1,Your triumphant victory is short-lived. You are in an area under Gloomhaven where the water from the Still River is diverted into cisterns to supply the city.
+Scenario_JOTL_015_TaintedBlood_Success_2,"Looking over the smashed equipment, you see the streams of black liquid snaking from overturned beakers into the flowing water, and it is clear that the cities water supply is tainted, there is nothing you can do to reverse that now."
+Scenario_JOTL_015_TaintedBlood_Success_3,"You search the broken corpses of the cultists for Roland, but all you find is some loose gold."
+Quest_JOTL_015_TaintedBlood_OUTRO_TRAVEL_1,"The only thing to be done is to take a sample of the liquid back to the University. They got you into this mess, and with any hope, Professor Haltrip can come up with some counteracting agent to distribute before all of the cities inhabitants turns into monstrosities."
+Quest_JOTL_016_MixedResults_NAME,Mixed Results
+Quest_JOTL_016_MixedResults_DESC,"Return to the University, perhaps they can help the city"
+Quest_JOTL_016_MixedResults_LIST,Revisit Professor Haltrip
+Quest_JOTL_016_MixedResults_INTRO,"You burst into Professor Haltrip’s office, holding a vial of the black liquid. The old Quatryl looks understandably alarmed, but you waste no time in explaining the situation quickly and calmly to him until a determined look settles on his face.
+
+“Once again, it is up to me to save the city, eh?” he asks, standing from his cluttered desk. “And we don’t have the luxury of time. I think we can throw together some tests, but it won’t be easy - or pretty.""
+
+“We’ll need to inject a number of specimens with variations on this toxin and observe how they deal with different stimuli. With enough data, we should be able to formulate a concoction that will arrest the transformation.”
+
+He exits his office and leads you down the hallway to his lab. “The stimuli will be where you come in. I found your last foray in my lab to be very helpful in expediting the data collection, so I’ll need something similar here. It will be more controlled, of course, but we need to collect as much data as we can, as quickly as we can, so we’ll be dealing with large groups of specimens at once.”"
+Scenario_JOTL_016_MixedResults_Start_1,"Haltrip passes the black vial along to a new assistant, then directs you into a small laboratory. After you enter, he closes and locks the door from the other side. “Not to worry, the tests will be over before you know it. Let’s begin with the first phase.”
+"
+Scenario_JOTL_016_MixedResults_Room_Misc_1,Haltrip bangs on the glass of the window between rooms and gives you a thumbs up.
+Scenario_JOTL_016_MixedResults_Room_Misc_2,"""Begin phase two!” he yells emphatically. He is much happier than he should be, given the circumstances."
+Scenario_JOTL_016_MixedResults_Room_Misc_3,"""On to phase three!” Haltrip yells. “We got a lot of good data on the last one, so, with any luck, this next test will conclude the study!”"
+Scenario_JOTL_016_MixedResults_Success_1,"With the final test complete, Haltrip bursts into the lab. You almost turn your weapons on him after what he put you through, but his exuberance is infectious"
+Scenario_JOTL_016_MixedResults_Success_2,"“There it is!” he cries. “That last strain, that was the key! I’ve got my assistants working on it now...an agent that will completely neutralize the toxin’s effects."
+Scenario_JOTL_016_MixedResults_Success_3,"And once it is ready, we will use all the resources the University has at its disposal to distribute the agent across the city. With luck, we will avert this crisis in time!”"
+Scenario_JOTL_016_MixedResults_Success_4,"His face bunches up at the edges of his mouth in a smile. He beams with wrinkly pride, and you almost crack a smile yourself before a thunderous boom reverberates through the building. Haltrip’s smile disappears."
+Scenario_JOTL_016_MixedResults_Success_5,"That came from the southeast, Haltrip starts... “It sounded like a lightning strike, but it’s not even raining.”"
+Quest_JOTL_016_MixedResults_OUTRO_TRAVEL_1,"You rush outside just in time to see a pillar of red light shoot down from the sky and connect with the Old Wall Gate. Seconds later, another boom echoes across the city."
+Quest_JOTL_016_MixedResults_OUTRO_TRAVEL_2,This is undoubtedly the work of Roland and his Blood God. What other tricks can they possibly have up their sleeves? There’s only one way to find out.
+Quest_JOTL_017_RedTwilight_NAME,Red Twilight
+Quest_JOTL_017_RedTwilight_DESC,"Gloomhaven is under attack, head to the Old Wall Gate!"
+Quest_JOTL_017_RedTwilight_LIST,Defend the Old Wall Gate
+Quest_JOTL_017_RedTwilight_INTRO,"The sun dips low on the horizon as you race to the Old Wall Gate. Periodic flashes of red light combined with the setting sun make it look as if the sky is ablaze. You arrive at the scene to witness a gathering of red-robed zealots prostrate in front of the gate, racked with pain.
+
+“They’ve ingested the gift,” a voice booms down from above. “They are devoted to the cause, and so the Blood God gives us the strength to enact HIS plan.” A hulking figure stands atop the Old Wall. His stature has certainly changed, but not his face... it is Roland.
+
+As you try to puzzle out what is going on, another column of red light crashes down, engulfing Roland. He cackles with delight, and his frame seems to grow even larger.
+
+“You attempt to inoculate the city against His influence, but He will not allow it!” Roland bellows. “None of the meddlers from the University will enter the east city. I am HIS avatar of destruction, and I deem it so!”
+
+"
+Scenario_JOTL_017_RedTwilight_Start_1,"On the ground in front of you, the robed men scream out in agony as they begin to grow as well. Fleshy, unnatural lumps of muscle sprout from their frames, warping their bodies into monstrosities."
+Scenario_JOTL_017_RedTwilight_Start_2,"Their robes begin to rip under the strain, their faces distorted and unrecognizable, as they scream out in a hateful cacophony."
+Scenario_JOTL_017_RedTwilight_Start_3,“Destroy all who dare stand against us!” Roland commands as he heads into the city.
+Scenario_JOTL_017_RedTwilight_Room_3_1,"“Ah, so nice of you to join me,” Roland laughs."
+Scenario_JOTL_017_RedTwilight_Room_3_2,"He lifts his massive sword aloft, and a flash of red lightning shoots down from the sky, connecting with the tip of the blade, causing it to crackle with energy."
+Scenario_JOTL_017_RedTwilight_Room_3_3,"“Come, let me show you the full extent of the Blood God’s anger.”"
+Scenario_JOTL_017_RedTwilight_Room_3_4,"You briefly consider fleeing, but you see more of the monstrosities gathering in the streets around you. Your only hope is to kill Roland or this madness will never end."
+Scenario_JOTL_017_RedTwilight_Success_1,"Roland laughs as he bleeds profusely from numerous wounds. He spits out a mouthful of blood, preparing to give one more speech about his stupid god and their idiotic plan."
+Scenario_JOTL_017_RedTwilight_Success_2,"“I just need a little more energy,” he coughs. With a smile he raises his sword once again to the sky. But no lightning comes. Roland frowns, a confused look on his face."
+Scenario_JOTL_017_RedTwilight_Success_3,"“My glorious master,” he pleads with great effort and visible strain. “I just need a little more help...”"
+Scenario_JOTL_017_RedTwilight_Success_4,"He drops to his knees, and his minions turn to ash, blown away by the wind comming from the sea. As you approach with your weapon at the ready, his hulking form shrinks until he once again resembles the frail old man from the Hook Coast."
+Scenario_JOTL_017_RedTwilight_Success_5,"No... he groans, and then you strike."
+Scenario_JOTL_017_RedTwilight_Success_6,"It is done. Your quarry lies dead on the blackened stone, covered in the blood he coveted so much."
+Quest_JOTL_017_RedTwilight_OUTRO_TRAVEL_1,“What is the meaning of this?” The captain of the guard runs up to you from a nearby street. There is a full squad of soldiers behind him.
+Quest_JOTL_017_RedTwilight_OUTRO_TRAVEL_2,"You explain what happened, reminding him about the gold he promised for investigating the sewers. You emphasize how far above and beyond that you ended up going."
+Quest_JOTL_017_RedTwilight_OUTRO_TRAVEL_3,"He thanks you with a hefty purse of coins, and you leave the scene in his capable hands. Your next stop is the widow Sandy, where you inform her that her husband’s death has been fully avenged."
+Quest_JOTL_017_RedTwilight_OUTRO_TRAVEL_4,"It doesn’t seem to relieve her grief all that much, but it makes you feel better at least."
+Quest_JOTL_017_RedTwilight_OUTRO_TRAVEL_5,"Finally, with the weight of this madness off your shoulders, you return to the Sleeping Lion with your head held high."
+Quest_JOTL_017_RedTwilight_OUTRO_GH_1,"As you enter the inn, the shift in tone is immediate. The conversations grow hushed, and there are many furtive glances your way."
+Quest_JOTL_017_RedTwilight_OUTRO_GH_2,"Suddenly, a group in the corner starts slamming cups of ale on their table in a clear rhythm. The name of your mercenary guild is called out, once and then again..."
+Quest_JOTL_017_RedTwilight_OUTRO_GH_3,It becomes a chant and grows louder until the whole front room is caught in the uproar. A smile creeps onto your face. It’s good to be home.
+Quest_JOTL_018_TheHeist_NAME,The Heist
+Quest_JOTL_018_TheHeist_DESC,"The secret passage led to this merchant's house, are they connected, or is this an opportunity for some loot?"
+Quest_JOTL_018_TheHeist_LIST,Use a secret passage to check out a merchant's house
+Quest_JOTL_018_TheHeist_INTRO,"Of course, you would not normally go out of your way to creep into some wealthy merchant’s house and steal their valuables. You’re not a common criminal, after all, but the entrance to this estate was behind the illusory wall in the Traveler’s District sewers, implying its resident might somehow be involved in this whole mess. You just want to take a look around, and if you happen to find a valuable or two, well so be it."
+Scenario_JOTL_018_TheHeist_Start_1,"You quietly climb up out of the sewer entrance into a grand entryway, complete with a couple of impressive stone statues. It doesn’t seem like anyone is home, so it’s time to see what you can find."
+Scenario_JOTL_018_TheHeist_Misc_1,"You search through a chest of valuables and pocket as much as you can, but then, something strange happens. The statue behind you starts to move."
+Scenario_JOTL_018_TheHeist_Misc_2,"You watch in a panic as it climbs down off its pedestal and begins to stomp toward you, menacingly."
+Scenario_JOTL_018_TheHeist_Misc_3,"The threat is now real. More statues are coming to life than you can handle, so it is time to get out of here. At least the things are slow. They shouldn't be able to follow you."
+Scenario_JOTL_018_TheHeist_Misc_4,"As you head back to the entrance, though, you see more of the statues moving into position. They have you surrounded."
+Scenario_JOTL_018_TheHeist_Success_1,You really hope those statues can’t use ladders as you quickly descend back into the sewers.
+Scenario_JOTL_018_TheHeist_Success_2,"It didn’t quite go as planned, and you didn’t really find any incriminating evidence, but you are a lot richer, so you’ll call it a win."
+Quest_JOTL_019_DenOfThieves_NAME,Den of Thieves
+Quest_JOTL_019_DenOfThieves_DESC,"You found a secondary tunnel to a Vermling den under the City, it should be cleared"
+Quest_JOTL_019_DenOfThieves_LIST,Destroy the Vermling den
+Quest_JOTL_019_DenOfThieves_INTRO_GH_1,"Any Vermling nest within the city can be problematic, but the possibility that these Vermlings may be consorting with those red-robed madmen or infected by their experiments, well, it’s probably best just to exterminate the lot of them."
+Quest_JOTL_019_DenOfThieves_INTRO,"You move past the old rusted lever, through the dug-out tunnel, into an older network of sewer passageways. You don’t have to go that far before you find the savage little creatures, their fur matted with oozing growths. They scream and wave their crude weapons at you. This place needs to be destroyed, but maybe you can find more information on the cult as well."
+Scenario_JOTL_019_DenOfThieves_Success_1,"It is rough work, destroying these nests while being attacked on all sides. Given the presence of the deformed rats, it is pretty clear there is some connections between the Vermlings and the blood cult, but you fail to locate any additional evidence."
+Scenario_JOTL_019_DenOfThieves_Success_2,"All you find for your effort is an interesting ring that could be of some value. With the infection eradicated, you make your exit."
+Quest_JOTL_020_MisplacedGoods_NAME,Misplaced Goods
+Quest_JOTL_020_MisplacedGoods_DESC,An Inox sea captain wants you to recover the goods that were stolen from her.
+Quest_JOTL_020_MisplacedGoods_LIST,Recover some stolen items
+Quest_JOTL_020_MisplacedGoods_INTRO_TRAVEL_1,You follow the directions of the grizzled Inox sea captain to a warehouse in the Old Docks where she suspects her goods are hiding.
+Quest_JOTL_020_MisplacedGoods_INTRO_TRAVEL_2,You’re not quite sure what to expect when you push through the oaken door into the dimly lit stockroom.
+Quest_JOTL_020_MisplacedGoods_INTRO,"Various sundries are scattered everywhere, as if stored hastily. And near the center of the room, you see the culprits - a group of chaos demons none too happy about you barging in. Fighting them will be one thing, but finding the right goods in this mess will be an entirely different matter. Who knows what is in store for you?"
+Scenario_JOTL_020_MisplacedGoods_Success_1,"Well, you’ll have nightmares about apples for a week, but you finally find all of the Inox’s missing goods and return to her ship at the docks for your reward."
+Quest_JOTL_020_MisplacedGoods_OUTRO_GH_1,"“Wonderful!” she praises. “We need to push off for Velcyll Harbor first thing tomorrow, and it would have been a much less lucrative trip if you hadn’t have recovered these. They’ll sell well in the Orchid shops."""
+Quest_JOTL_020_MisplacedGoods_OUTRO_GH_2,"She hands over your ""reward"", and you wish her well on her journey - the cheapskate."
+Quest_JOTL_021_AgentsOfChaos_NAME,Agents of Chaos
+Quest_JOTL_021_AgentsOfChaos_DESC,A Valrath has paid you to investigate strange goings on in the New Docks
+Quest_JOTL_021_AgentsOfChaos_LIST,What is occurring in the New Docks?
+Quest_JOTL_021_AgentsOfChaos_INTRO_GH_1,"“Demons,” they say. Judging by what you’ve seen recently, you certainly wouldn’t discount it. There has just been one thing after another with this city recently, so why should the New Docks be any different?"
+Quest_JOTL_021_AgentsOfChaos_INTRO,"You follow the directions of the merchant to a collection of small warehouses deep into the district. As you approach, a strange feeling washes over you. Something is definitely not right, and you can feel it in the air. There is a palpable malice that permeates everything and claws at the back of your mind. It takes everything you have to not simply flee the scene and never look back. Instead, you draw your weapon and get to work."
+Scenario_JOTL_021_AgentsOfChaos_Room_2_1,"This storeroom is deathly quiet, but the terrible feeling only intensifies. Something is hiding in here, and you’ll figure out what it is, even if you have to destroy everything."
+Scenario_JOTL_021_AgentsOfChaos_Room_3_1,"The pain in the back of your skull throbs deeper as you step into the room. You feel your psyche being shred to ribbons, but you have to advance and put a stop to this insidiousness."
+Scenario_JOTL_021_AgentsOfChaos_Room_5_1,You enter the storeroom and see suspicious movement through the weapon shelves. This is followed by the sound of hissing and a number of snakes slithering out of the darkness toward you.
+Scenario_JOTL_021_AgentsOfChaos_Room_5_2,"Strangely, you sense they are being protected by some malevolent force in the back of the room."
+Scenario_JOTL_021_AgentsOfChaos_Success_1,"As the final demon dies, the aura of malice around the area is lifted. You happily feel your sanity coming back."
+Quest_JOTL_021_AgentsOfChaos_OUTRO_GH_1,You return to the Valrath merchant to give him the good news and get paid for your efforts.
+Quest_JOTL_022_UnfriendlyMessage_NAME,Unfriendly Message
+Quest_JOTL_022_UnfriendlyMessage_DESC,The Redguard must go to this meeting or risk being hunted
+Quest_JOTL_022_UnfriendlyMessage_LIST,A meeting for the Redguard
+Quest_JOTL_022_UnfriendlyMessage_INTRO,"You arrive at the appointed time in a dark alley near the city’s west wall. You fully expected an ambush and are not disappointed. What is disappointing, however, is that those hunting the Red Guard didn't come themselves... Instead, they sent proxies...some lowly Vermlings and an enchanted golem."
+Scenario_JOTL_022_UnfriendlyMessage_Start_1,"The Red Guard was hoping for some further communication, but your foes wordlessly attack upon your arrival. When the golem moves, though, you notice it's not a standard creation."
+Scenario_JOTL_022_UnfriendlyMessage_Start_2,"It is forged with strong magic, incorporating a horde of rare, venomous snakes from the Red Desert. The message is perfectly clear, and it is deeply personal."
+Scenario_JOTL_022_UnfriendlyMessage_Success_1,"Your victory has bought the Red Guard more time. But there is no doubt, more terrible things will come."
+Scenario_JOTL_022_UnfriendlyMessage_Success_2,"Valraths do not forgive so easily, but the Red Guard is free for today, and, what’s more, you find a ring at the heart of the golem’s gears."
+Scenario_JOTL_022_UnfriendlyMessage_Success_3,"It seems to be a simple circle of steel, but you can feel it still has some energy from the Jhinda forge."
+Scenario_JOTL_022_UnfriendlyMessage_Success_4,It takes a long time before the Red Guard speaks again.
+Quest_JOTL_023_BestOfTheBest_NAME,Best of the Best
+Quest_JOTL_023_BestOfTheBest_DESC,The Hatchet wants to prove they are the greatest fighter in Gloomhaven
+Quest_JOTL_023_BestOfTheBest_LIST,Is the Hatchet 'The Best Around'?
+Quest_JOTL_023_BestOfTheBest_INTRO_TRAVEL_1,You arrive at Gloomhaven Square for the competition and see the entire area has been converted into a huge arena with stadium seating around the outside.
+Quest_JOTL_023_BestOfTheBest_INTRO,"The Hatchet moves over to the contestants’ area while the rest of you take your seats to watch the spectacle.
+
+The competition itself is brutal. One unprepared drudge after another faces off against a host of monsters, and none of them fare very well. The lucky ones are those who leave the arena alive.
+
+Then, the Hatchet enters the stage. It’s time to give these people a show."
+Scenario_JOTL_023_BestOfTheBest_Success_1,"The last of the aggressors falls, and the Hatchet stands victorious. The crowd goes wild, cheering and hooting in a frenzy."
+Scenario_JOTL_023_BestOfTheBest_Success_2,You can see the Hatchet crack a smile under the shade of his hat - a truly rare occurrence.
+Scenario_JOTL_023_BestOfTheBest_Success_3,"The organizers award the Hatchet with a finely crafted weapon as a prize, and you don’t stick around to see if anyone else survives the carnage. Surely, they have no chance of putting on a better show."
+Quest_JOTL_024_WardingTheVoid_NAME,Warding The Void
+Quest_JOTL_024_WardingTheVoid_DESC,Something is stirring within the Void and the Voidwarden must keep the barriers up
+Quest_JOTL_024_WardingTheVoid_LIST,The Voids wards must be protected
+Quest_JOTL_024_WardingTheVoid_INTRO_TRAVEL_1,You arrive at the southeastern edge of the Void to find a massive storm raging inside. Great gusts of wind blow the black sand up into skin grating torrents.
+Quest_JOTL_024_WardingTheVoid_INTRO,"The Voidwarden marches forward and plants three wards in the cobblestone. The winds abate a bit, but the area still seems incredibly dangerous.
+
+The Voidwarden turns and explains that these wards should keep whatever stirs at bay, but that the Void will send what forces it can to break them. You must stand between the enemy and the wards to make sure the city remains safe."
+Scenario_JOTL_024_WardingTheVoid_Misc_1,"You relax a bit, having destroyed a wave of terrible creatures, but the Voidwarden does not let down their guard. More are coming. This fight is not over."
+Scenario_JOTL_024_WardingTheVoid_Misc_2,"Sure enough, as you crush the charging demon, more begin to materialize behind it. Your energy is flagging, and you desperately hope this is the last of them."
+Scenario_JOTL_024_WardingTheVoid_Success_1,"You fall back behind the wards, praying that was the last of the creatures but resolving to fight until your final breath if you must. Luckily, that won’t be necessary. The winds die down. The crisis is averted."
+Quest_JOTL_024_WardingTheVoid_OUTRO_TRAVEL_1,The Voidwarden is determined to stay here for the rest of the night to make sure the threat has truly passed. The rest of you though head back to the Sleeping Lion.
+Quest_JOTL_024_WardingTheVoid_OUTRO_GH_1,"When you reconvene in the morning, the Voidwarden has a new set of robes. You don’t ask any questions."
+Quest_JOTL_025_TheGreatestJobInTheWorld_NAME,The Greatest Job in the World
+Quest_JOTL_025_TheGreatestJobInTheWorld_DESC,The Demolitionist has a job to destroy a cursed warehouse
+Quest_JOTL_025_TheGreatestJobInTheWorld_LIST,A Demolition for a Demolitionist
+Quest_JOTL_025_TheGreatestJobInTheWorld_INTRO_GH_1,The Demolitionist just can’t say “no” to a good demo job. There’s no greater feeling than that which comes from breaking everything in sight
+Quest_JOTL_025_TheGreatestJobInTheWorld_INTRO_GH_2,You gear yourself up and head over to the derelict building slated for destruction.
+Quest_JOTL_025_TheGreatestJobInTheWorld_INTRO,"The building has been abandoned for a while, plus there’s the whole “curse” thing, so you’re not sure what to expect when you walk inside. You feel the presence of some lingering spirits, but they’re not going to stop you from getting to work."
+Scenario_JOTL_025_TheGreatestJobInTheWorld_Success_1,"There is a long groan followed by a sharp crack. The roof buckles, and then the whole thing comes crashing down at once, kicking up a huge cloud of dust in a cacophany of noise."
+Scenario_JOTL_025_TheGreatestJobInTheWorld_Success_2,"You are blinded and deafened for a brief moment, but as the dust clears, you see the job well done in front of you. The building is destroyed, and any sort of haunting has dissipated."
+Quest_JOTL_025_TheGreatestJobInTheWorld_OUTRO_GH_1,The Demolitionist reports back to the foreman and then uses the earnings to build themselves a fancy new pair of boots.
+GUI_ViciousBallet_Tooltip,Selecione um aliado adjacente para realizar uma ação de Ataque 3
+GUI_WitheringConviction_TOP_TOOLTIP,Selecione {CURRENT_TARGETS}/{TOTAL_TARGETS} aliados para realizar a ação
+GUI_CONFIRMATION_CANCEL_ABILITY_CARD_LullIntoOblivion_DESCR,"Se a carta for Descartada, qualquer inimigo alvo de Cair no esquecimento perderá o efeito ATORDOAR."
+Voidwarden_ROLE,Controle de Multidão
+Voidwarden_DIFFICULTY,Alta
+Voidwarden_ADVENTURE_DESCRIPTION,"O Vazio é um lugar perigoso e terrível. Qualquer coisa que entre nele se dissolve em uma areia grossa e preta sem explicação ou remorso. Depois de uma experiência de quase morte com o Vazio quando criança, que marcou o lado esquerdo de seu corpo, os Guardiões do Vazio tornaram seu dever proteger os outros de um destino semelhante. No entanto, ser tocado pelo Vazio deixou mais do que apenas cicatrizes físicas. Eles podem canalizar o poder por trás do Vazio para manipular os pensamentos e ações de aliados e inimigos. A Guardiã do Vazio também pode oferecer poderosas dádivas de cura e resistência, mas essas dádivas tem um preço terrível."
+Voidwarden_STRENGTHS,"- <indent=%15>Tamanho da mão inicial grande</indent>
+
+- <indent=%15>Funciona melhor em grupos maiores</indent>
+
+- <indent=%15>Vasta variedade de habilidades da metade inferior</indent>"
+Voidwarden_WEAKNESSES,"- <indent=%15>Geralmente um personagem lento</indent>
+- <indent=%15>Razoavelmente frágil</indent>
+- <indent=%15>Possui um regime de cuidados com a pele complicado</indent>"
+Hatchet_ROLE,Dano à distância
+Hatchet_DIFFICULTY,Baixa
+Hatchet_ADVENTURE_DESCRIPTION,"Embora qualquer Inox normal possa ser valorizado em Gloomhaven por sua força bruta e resistência com trabalho manual, se você quiser ser um mercenário de sucesso na cidade, às vezes é necessário um pouco mais de sutileza. As machadinhas abraçaram completamente a vida na cidade, vestindo-se com as últimas modas. No entanto, é tudo uma fachada, pois sua verdadeira paixão está em seu arsenal. Ninguém é um atirador melhor com um machado de arremesso, e se alguém quiser contestar sua reivindicação, é melhor que esteja preparado para um duelo até a morte!"
+Hatchet_STRENGTHS,"- <indent=%15>Grande dano à distância</indent>
+- <indent=%15>Conjunto razoável de habilidades secundárias variadas</indent>
+- <indent=%15>Tem alguns Machados Favoritos</indent>"
+Hatchet_WEAKNESSES,"- <indent=%15>Deve tentar ficar fora da linha de frente</indent>
+
+- <indent=%15>Precisa pegar seus machados após o uso</indent>
+
+- <indent=%15>Não consegue tirar o chapéu desde a infância</indent>"
+Red Guard,Guarda Vermelho
+Redguard_ROLE,Tanque
+Redguard_DIFFICULTY,Baixa
+Redguard_ADVENTURE_DESCRIPTION,"Existe uma casta específica na capital de Valrath, Jhinda, encarregada de proteger a cidade. É uma posição de prestígio e não é facilmente vivida. Exilado de Jhinda por crimes desconhecidos, o Guarda Vermelho achou muito difícil se separar de sua identidade como protetor, mantendo a distinta armadura vermelha, bem como sua foice com corrente e seu escudo. O único lugar para encontrar trabalho era como mercenário em Gloomhaven, e talvez, apenas talvez, ficando na linha de frente e mantendo seus aliados protegidos, o Guarda Vermelho encontre uma maneira de se redimir. Não aos olhos da cultura Jhinda, que virou as costas permanentemente, mas pelo menos dentro de sua própria estima."
+Redguard_STRENGTHS,"- <indent=%15>Matriz de ataques corpo a corpo mais alguns à distância</indent>
+- <indent=%15>Combinação de Escudo e dano direto de perto</indent>
+- <indent=%15>Amplo alcance de Iniciativa permite 'turnos duplos'</indent>"
+Redguard_WEAKNESSES,"- <indent=%15>Fora o dano, não tem muitas opções</indent>
+- <indent=%15>Pode passar dificuldade contra inimigos maiores sozinhos</indent>
+- <indent=%15>Realmente, e quero dizer REALMENTE, gosta da cor Vermelha</indent>"
+Demolitionist_ROLE,Dano Corpo a Corpo
+Demolitionist_DIFFICULTY,Médio
+Demolitionist_ADVENTURE_DESCRIPTION,"Mesmo quando se aprimoram com máquinas de sua própria criação para destruir qualquer coisa que esteja em seu caminho, os Quatryls ainda o farão com charme e talento. Embora possam ser pequenos, os demolidores não deixam que isso os atrapalhe nem um pouco. Entre suas botas de foguete, uma infinidade de bombas e punhos de pistão gigantes, eles são uma força a ser reconhecida. Às vezes, o único caminho a seguir é aquele que eles mesmos criam. Nesses casos, é melhor sair do seu caminho."
+Demolitionist_STRENGTHS,"- <indent=%15>Muitas habilidades de Dano Direto para destruir Escudos</indent>
+- <indent=%15>Acesso a habilidades com ATORDOAR</indent>
+- <indent=%15>Ótimo para afetar a área de combate</indent>"
+Demolitionist_WEAKNESSES,"- <indent=%15>Tamanho do Baralho pequeno</indent>
+- <indent=%15>Opções de cura limitadas</indent>
+- <indent=%15>Suas luvas não são a roupa mais prática para o dia a dia</indent>"
+Scenario_JOTL_KillAll,Kill all enemies
+Scenario_JOTL_004_ARitualInStone_Objective_1,Destroy all summoning stones
+Scenario_JOTL_004_ARitualInStone_Summoning_Stone,Summoning Stone
+Scenario_JOTL_004_ARitualInStone_Modifier_1,Summoning Stones can only be targeted by melee attacks.
+Scenario_JOTL_005_ADeeperUnderstanding_Modifier_1,"Any time anyone except the Blood Tumor suffers damage, the Blood Tumor heals by that amount."
+Scenario_JOTL_005_ADeeperUnderstanding_Objective_2,Lose if the Blood Tumor reaches its maximum hit point value
+Scenario_JOTL_005_ADeeperUnderstanding_Objective_1,Kill the Blood Tumor
+Scenario_JOTL_006_CorruptedResearch_Objective_1,Destroy all growths
+Scenario_JOTL_006_CorruptedResearch_Growth,Growth
+Scenario_JOTL_008_HiddenTumor_Modifier_1,"Any time anyone other than the Blood Tumor suffers damage, the Blood Tumor heals itself for that amount of damage."
+Scenario_JOTL_009_ExplosiveEvolution_Objective_1,Kill the Blood Horror
+Scenario_JOTL_009_ExplosiveEvolution_Modifier_1,The Blood Horror cannot be damaged in any way until all Zealots in the scenario have been killed.
+Scenario_JOTL_010_TheGauntlet_Modifier_1,Traps initally set in the first room affect everyone in its hex and all adjacent hexes.
+Scenario_JOTL_010_TheGauntlet_Modifier_2,"At the end of each round, all gas traps in the second room will move one hex in the direction of the arrow tracks in the floor and return to the first hex if any of them would move into the wall."
+Scenario_JOTL_010_TheGauntlet_Modifier_3,Traps initally set in the third room will move towards mercenaries at the end of each round.
+Scenario_JOTL_011_DefiledSewers_Modifier_1,The current will force everyone in the central room to move one hex away from the exit at the end of each round.
+Scenario_JOTL_011_DefiledSewers_Objective_1,Activate the pressure plate
+Scenario_JOTL_012_BeguilingSewers_Objective_1,Destroy all pillars
+Scenario_JOTL_012_BeguilingSewers_Pillar,Pillar
+Scenario_JOTL_012_BeguilingSewers_Modifier_1,The pillars retaliate when attacked.
+Scenario_JOTL_013_VileHarvest_Modifier_1,"At the start of every other round, one Blood Imp will spawn adjacent to the Filthy Sludge if it's alive."
+Scenario_JOTL_013_VileHarvest_Modifier_2,At the start of every other round a Blood Imp will spawn adjacent to this Filthy Sludge.
+Scenario_JOTL_014_ToxicHarvest_Modifier_1,"At the start of each round Giant Vipers adjacent to a Zealot will die and spawn one Elite Blood Imp, or two Elite Blood Imps if the Giant Viper was Elite."
+Scenario_JOTL_015_TaintedBlood_Objective_1,Destroy all alchemy tables
+Scenario_JOTL_015_TaintedBlood_Table,Alchemy Table
+Scenario_JOTL_015_TaintedBlood_Modifier_1,"At the end of each round, Zealots kill one Black Imp within range 3 to spawn a Blood Imp and then Stun themselves."
+Scenario_JOTL_015_TaintedBlood_Modifier_2,Destroyed alchemy tables will stop spawning Black Imps.
+Scenario_JOTL_015_TaintedBlood_Modifier_3,Destroy all alchemy tables in the central room to open the locked doors.
+Scenario_JOTL_016_MixedResults_Modifier_1,Rat Monstrosities will spawn a Blood Imp on death instead of dealing damage.
+Scenario_JOTL_016_MixedResults_Modifier_2,"If a Rat Monstrosity's on-death damage kills anyone, an Elite Black Imp is spawned."
+Scenario_JOTL_017_RedTwilight_Objective_1,Kill the First of the Order
+Scenario_JOTL_017_RedTwilight_Modifier_1,Ending a movement in a ladder will move you to the next room.
+Scenario_JOTL_018_TheHeist_Objective_1,Loot a number of ornate chests equal to the number of Mercenaries in the party
+Scenario_JOTL_018_TheHeist_Objective_2,All mercenaries must escape through the exit.
+Scenario_JOTL_019_DenOfThieves_Objective_1,Destroy all nests
+Scenario_JOTL_019_DenOfThieves_Objective_2,Loot all chests
+Scenario_JOTL_019_DenOfThieves_Nest,Nest
+Scenario_JOTL_020_MisplacedGoods_Objective_1,Find all goods
+Scenario_JOTL_020_MisplacedGoods_Objective_2,Kill all revealed enemies
+Scenario_JOTL_020_MisplacedGoods_Goods,Goods
+Scenario_JOTL_021_AgentsOfChaos_Objective_1,Kill all Demons
+Scenario_JOTL_021_AgentsOfChaos_Table,Urn
+Scenario_JOTL_021_AgentsOfChaos_Modifier_1,"Whenever an urn is destroyed, anyone adjacent to it suffers 1 damage."
+Scenario_JOTL_021_AgentsOfChaos_Modifier_2,"While the Entropy Demon is alive, at the end of each turn mercenaries will suffer damage equal to Scenario level divided by 2 (rounded down) for each hex they moved in the rooms leading to the Entropy demon."
+Scenario_JOTL_021_AgentsOfChaos_Modifier_3,The Chaos Demon reduces Giant Vipers HP to 1 and grants them Shield and Retaliate.
+Scenario_JOTL_021_AgentsOfChaos_Modifier_4,"Until the Chaos Demon in this room dies, Giant Vipers' hit points are reduced to 1 and they gain Shield and Retaliate."
+Scenario_JOTL_022_UnfriendlyMessage_Objective_1,Kill the Stone Golem
+Scenario_JOTL_022_UnfriendlyMessage_Modifier_2,Vermling Raiders will not move and all their melee attacks are Range 3 instead
+Scenario_JOTL_022_UnfriendlyMessage_Modifier_1,"At the start of every round after the first, the Golem suffers damage equal to the number of Characters / 2 (rounded down), then spawns two Giant Vipers adjacent to it."
+Scenario_JOTL_022_UnfriendlyMessage_Objective_2,Lose if the Red Guard becomes exhausted
+Scenario_JOTL_023_BestOfTheBest_Objective_1,Lose if the Hatchet leaves the Arena
+Scenario_JOTL_023_BestOfTheBest_Objective_3,Lose if another mercenary enters the Arena
+Scenario_JOTL_023_BestOfTheBest_Objective_2,Lose if the Hatchet becomes exhausted
+Scenario_JOTL_023_BestOfTheBest_Objective_4,Kill all enemies in the arena
+Scenario_JOTL_023_BestOfTheBest_Modifier_1,Fans cheer for the Hatchet or the enemies.
+Scenario_JOTL_023_BestOfTheBest_Modifier_2,The Hatchet and the enemies get a bonus to their attacks if they have more fans.
+Scenario_JOTL_023_BestOfTheBest_Modifier_3,Deal lethal damage to enemy cheering fans to make them cheer for Hatchet. Heal abilities also damage enemy fans.
+Scenario_JOTL_023_BestOfTheBest_Modifier_4,"If any other mercenary than the Hatchet damages an enemy, or an enemy damages Hatchet, a fan will start cheering the enemies."
+Scenario_JOTL_023_BestOfTheBest_Modifier_5,"All enemies have Hatchet as their focus.
+When new enemies spawn more fans will start cheering the enemies."
+Scenario_JOTL_023_BestOfTheBest_Modifier_6,Convert Heal to Damage if targeting Fan
+Scenario_JOTL_023_BestOfTheBest_Modifier_7,<nobr>+{0} Attack <sprite name=Attack> from Fans
+Scenario_JOTL_024_WardingTheVoid_Objective_1,Lose if any wards are destroyed
+Scenario_JOTL_024_WardingTheVoid_Objective_2,Lose if the Voidwarden becomes exhausted
+Scenario_JOTL_024_WardingTheVoid_Ward,Ward
+Scenario_JOTL_024_WardingTheVoid_Modifier_1,"Any time a ward would suffer damage, any mercenary may burn a card from their hand or two from their discard pile to negate the damage."
+Scenario_JOTL_024_WardingTheVoid_Modifier_2,All mercenaries in a black sand hex suffers Scenario Level / 2 + 1 (rounded up) at the end of each round.
+Scenario_JOTL_025_TheGreatestJobInTheWorld_Objective_1,Destroy all pillars
+Scenario_JOTL_025_TheGreatestJobInTheWorld_Objective_2,Lose if any mercenary becomes exhausted
+Scenario_JOTL_025_TheGreatestJobInTheWorld_Modifier_1,"At the end of a round when all the pillars of a room have been destroyed, that room and its door are destroyed and everyone in it suffers 10 damage and moves to the next room. Living Spirits cannot be damaged in any way other than damage from a room being destroyed."
+Scenario_JOTL_025_TheGreatestJobInTheWorld_Pillar,Pillar
+THE_FAVORITE_EFFECT_TOOLTIP,"<color=#F3DDAB>O Favorito</color>: Você pode adicionar +3 de Ataque a qualquer um de seus ataques à distância. Quando um inimigo alvo do Favorito morre, você pode saquear o machado no hexágono em que ele morreu para recuperar essa habilidade."
+THE_NEW_FAVORITE_EFFECT_TOOLTIP,"<color=#F3DDAB>O novo favorito</color>: Você pode adicionar +3 de Ataque, <nobr>FERIMENTO <sprite name=Wound></nobr> e <nobr>EMPURRAR <sprite name=Push> 1</nobr> a qualquer um de seus ataques à distância. Quando um inimigo alvo do Favorito morre, você pode saquear o machado no hexágono em que ele morreu para recuperar essa habilidade."
+Glossary_BlockHealing,Todas as curas direcionadas ao alvo atacado não têm efeito nesta rodada.
+BlockHealing,Não pode ser curado por 1 rodada
+Glossary_NeutralizeShield,Ignore o valor do Escudo de um inimigo normal ou de elite adjacente nesta rodada
+NeutralizeShield,Ignore o valor do Escudo
+ADVENTURE_ACHIEVEMENT_Voidwarden_Levelling_1,O cicatrizado
+ADVENTURE_ACHIEVEMENT_Voidwarden_Levelling_1_Desc,O Guardião do Vazio atinge o nível 2
+ADVENTURE_ACHIEVEMENT_Voidwarden_Levelling_2,Tonalidade mais branca de pálido
+ADVENTURE_ACHIEVEMENT_Voidwarden_Levelling_2_Desc,O Guardião do Vazio atinge o nível 5
+ADVENTURE_ACHIEVEMENT_Voidwarden_Levelling_3,Para o vazio
+ADVENTURE_ACHIEVEMENT_Voidwarden_Levelling_3_Desc,O Guardião do Vazio atinge o nível 7
+ADVENTURE_ACHIEVEMENT_Redguard_Levelling_1,O Ceifador
+ADVENTURE_ACHIEVEMENT_Redguard_Levelling_1_Desc,O Guarda Vermelho atinge o nível 2
+ADVENTURE_ACHIEVEMENT_Redguard_Levelling_2,Venha Sandman
+ADVENTURE_ACHIEVEMENT_Redguard_Levelling_2_Desc,O Guarda Vermelho atinge o nível 5
+ADVENTURE_ACHIEVEMENT_Redguard_Levelling_3,Lagosta do Rock
+ADVENTURE_ACHIEVEMENT_Redguard_Levelling_3_Desc,O Guarda Vermelho atinge o nível 7
+ADVENTURE_ACHIEVEMENT_Demolitionist_Levelling_1,A Escavadeira
+ADVENTURE_ACHIEVEMENT_Demolitionist_Levelling_1_Desc,O Demolidor atinge o Nível 2
+ADVENTURE_ACHIEVEMENT_Demolitionist_Levelling_2,Traga o barulho
+ADVENTURE_ACHIEVEMENT_Demolitionist_Levelling_2_Desc,O Demolidor atinge o Nível 5
+ADVENTURE_ACHIEVEMENT_Demolitionist_Levelling_3,Você veio como uma bola de demolição
+ADVENTURE_ACHIEVEMENT_Demolitionist_Levelling_3_Desc,O Demolidor atinge o nível 7
+ADVENTURE_ACHIEVEMENT_Hatchet_Levelling_1,O Talhador
+ADVENTURE_ACHIEVEMENT_Hatchet_Levelling_1_Desc,O Machadinha atinge o Nível 2
+ADVENTURE_ACHIEVEMENT_Hatchet_Levelling_2,Coisa Selvagem
+ADVENTURE_ACHIEVEMENT_Hatchet_Levelling_2_Desc,O Machadinha atinge o nível 5
+ADVENTURE_ACHIEVEMENT_Hatchet_Levelling_3,Deixe os corpos baterem no chão
+ADVENTURE_ACHIEVEMENT_Hatchet_Levelling_3_Desc,O Machadinha atinge o nível 7
+THEFAVORITE,O favorito
+TheNewFavorite,O novo favorito
+THEFAVORITE_DESCR_TOOLTIP,O saque devolve o Favorito ao Machadinha para que possa ser usado para adicionar +3 de Ataque a qualquer ataque de longo alcance.
+THENEWFAVORITE_DESCR_TOOLTIP,"O saque devolve o Novo Favorito ao Machadinha para que possa ser usado para adicionar +3 de Ataque, Ferimento e Empurrar 1 a qualquer ataque de longo alcance."
+ADVENTURE_ACHIEVEMENT_Demolitionist_1,Destruição Devassa
+ADVENTURE_ACHIEVEMENT_Demolitionist_1_Desc,O Demolidor destrói 20 Obstáculos
+ADVENTURE_ACHIEVEMENT_Demolitionist_2,C-C-C-Combo
+ADVENTURE_ACHIEVEMENT_Demolitionist_2_Desc,O Demolidor ataca o Mesmo Inimigo 3 vezes em uma Rodada 15 Vezes
+ADVENTURE_ACHIEVEMENT_Demolitionist_3,Premiado
+ADVENTURE_ACHIEVEMENT_Demolitionist_3_Desc,O Demolidor atordoa 20 inimigos
+ADVENTURE_ACHIEVEMENT_Hatchet_1,Claro que você nomeou seu machado
+ADVENTURE_ACHIEVEMENT_Hatchet_1_Desc,O Machadinha mata 30 inimigos com seu favorito
+ADVENTURE_ACHIEVEMENT_Hatchet_2,Cortar e Golpear
+ADVENTURE_ACHIEVEMENT_Hatchet_2_Desc,O Machadinha causa 99 de Dano através de Ataques
+ADVENTURE_ACHIEVEMENT_Hatchet_3,Voe meu lindo!
+ADVENTURE_ACHIEVEMENT_Hatchet_3_Desc,O Machadinha consome o elemento Vento 40 Vezes
+ADVENTURE_ACHIEVEMENT_Redguard_1,Chega mais!
+ADVENTURE_ACHIEVEMENT_Redguard_1_Desc,O Guarda Vermelho puxa 20 Inimigos
+ADVENTURE_ACHIEVEMENT_Redguard_2,Areias movediças
+ADVENTURE_ACHIEVEMENT_Redguard_2_Desc,O Guarda Vermelho causa 30 de dano aos inimigos com sua habilidade de nível 5
+ADVENTURE_ACHIEVEMENT_Redguard_3,Arco-íris duplo
+ADVENTURE_ACHIEVEMENT_Redguard_3_Desc,O Guarda Vermelho consome 60 Elementos
+ADVENTURE_ACHIEVEMENT_Voidwarden_1,Vá pegar eles
+ADVENTURE_ACHIEVEMENT_Voidwarden_1_Desc,O Guardião do Vazio usa 30 Habilidades que concedem Ações aos Aliados
+ADVENTURE_ACHIEVEMENT_Voidwarden_2,O Vazio leva embora
+ADVENTURE_ACHIEVEMENT_Voidwarden_2_Desc,O Guardião do Vazio usa uma habilidade que coloca uma Condição negativa 30 vezes
+ADVENTURE_ACHIEVEMENT_Voidwarden_3,O Vazio oferece
+ADVENTURE_ACHIEVEMENT_Voidwarden_3_Desc,The Guardião do Vazio cura 100 pontos de vida
+PERK_Demolitionist_01,Pó
+PERK_Demolitionist_01_Desc,"Remova quatro cartas <color=""orange"">+0</color>"
+PERK_Demolitionist_02,Consistência
+PERK_Demolitionist_02_Desc,"Remova duas cartas <color=""purple"">-1</color>"
+PERK_Demolitionist_03,Refinar
+PERK_Demolitionist_03_Desc,"Remova uma carta <color=""purple"">-2</color> e uma Carta <color=""orange"">+1</color>"
+PERK_Demolitionist_04,Aumentar
+PERK_Demolitionist_04_Desc,"Substitua uma Carta <color=""orange"">+0</color> por uma Carta <color=""orange"">+2</color>"
+PERK_Demolitionist_05,Irritação
+PERK_Demolitionist_05_Desc,"Substitua uma Carta <color=""purple"">-1</color> por uma Carta <color=""orange"">+0</color> VENENO <sprite name=Poison>"
+PERK_Demolitionist_06,Atordoamento
+PERK_Demolitionist_06_Desc,"Adicione uma Carta <color=""orange"">+2</color> CONFUNDIR <sprite name=Muddle>"
+PERK_Demolitionist_07,Tremor
+PERK_Demolitionist_07_Desc,"Substitua uma Carta <color=""orange"">+1</color> por uma Carta <color=""orange"">+2</color> <sprite name=Earth>"
+PERK_Demolitionist_08,Acender
+PERK_Demolitionist_08_Desc,"Substitua uma Carta <color=""orange"">+1</color> por uma Carta <color=""orange"">+2</color> <sprite name=Fire>"
+PERK_Demolitionist_09,Despedaçar
+PERK_Demolitionist_09_Desc,"Adicione um <color=""orange"">+0</color> Todos os inimigos adjacentes sofrem 1 carta de dano"
+PERK_Demolitionist_10,Resiliente
+PERK_Demolitionist_10_Desc,Ignore os efeitos negativos do cenário
+PERK_Hatchet_01,Consistência
+PERK_Hatchet_01_Desc,"Remova duas Cartas <color=""purple"">-1</color>"
+PERK_Hatchet_02,Enganar
+PERK_Hatchet_02_Desc,"Substitua uma Carta <color=""orange"">+0</color> por uma Carta <color=""orange"">+2</color> CONFUNDIR <sprite name=Muddle>"
+PERK_Hatchet_03,Apodrecer
+PERK_Hatchet_03_Desc,"Substitua uma Carta <color=""orange"">+0</color> por uma Carta <color=""orange"">+1</color> VENENO <sprite name=Poison>"
+PERK_Hatchet_04,Arrancar
+PERK_Hatchet_04_Desc,"Substitua uma Carta <color=""orange"">+0</color> por uma Carta <color=""orange"">+1</color> FERIMENTO <sprite name=Wound>"
+PERK_Hatchet_05,Abster
+PERK_Hatchet_05_Desc,"Substitua uma Carta <color=""orange"">+0</color> por uma Carta <color=""orange"">+1</color> IMOBILIZAR <sprite name=Immobilize>"
+PERK_Hatchet_06,Cotovelo
+PERK_Hatchet_06_Desc,"Substitua uma Carta <color=""orange"">+0</color> por uma Carta <color=""orange"">+1</color> <nobr>EMPURRAR <sprite name=Push> 2"
+PERK_Hatchet_07,Entorpecer
+PERK_Hatchet_07_Desc,"Substitua uma Carta <color=""orange"">+0</color> por uma Carta <color=""orange"">+0</color> ATORDOAR <sprite name=Stun>"
+PERK_Hatchet_08,Dormente
+PERK_Hatchet_08_Desc,"Substitua uma Carta <color=""orange"">+1</color> por uma Carta <color=""orange"">+1</color> ATORDOAR <sprite name=Stun>"
+PERK_Hatchet_09,Tempestade
+PERK_Hatchet_09_Desc,"Adicione uma Carta <color=""orange"">+2</color> <sprite name=Air>"
+PERK_Hatchet_10,Hackear
+PERK_Hatchet_10_Desc,"Substitua uma Carta <color=""orange"">+1</color> por uma Carta <color=""orange"">+3</color>"
+PERK_Redguard_01,Pó
+PERK_Redguard_01_Desc,"Remova quatro cartas <color=""orange"">+0</color>"
+PERK_Redguard_02,Consistência
+PERK_Redguard_02_Desc,"Remova duas cartas <color=""purple"">-1</color>"
+PERK_Redguard_03,Refinar
+PERK_Redguard_03_Desc,"Remova uma carta <color=""purple"">-2</color> e uma Carta <color=""orange"">+1</color>"
+PERK_Redguard_04,Labareda
+PERK_Redguard_04_Desc,"Substitua uma Carta <color=""orange"">+1</color> por uma Carta <color=""orange"">+2</color> <sprite name=Fire>"
+PERK_Redguard_05,Iluminar
+PERK_Redguard_05_Desc,"Substitua uma Carta <color=""orange"">+1</color> por uma Carta <color=""orange"">+2</color> <sprite name=Light>"
+PERK_Redguard_06,Luz Flamejante
+PERK_Redguard_06_Desc,"Adicione uma Carta <color=""orange"">+1</color> <sprite name=Fire> <sprite name=Light>"
+PERK_Redguard_07,Muralha
+PERK_Redguard_07_Desc,"Adicione um <color=""orange"">+1</color> Escudo <sprite name=Shield> 1, Cartão próprio"
+PERK_Redguard_08,Abster
+PERK_Redguard_08_Desc,"Substitua uma Carta <color=""orange"">+0</color> por uma Carta <color=""orange"">+1</color> IMOBILIZAR <sprite name=Immobilize>"
+PERK_Redguard_09,Arrancar
+PERK_Redguard_09_Desc,"Substitua uma Carta <color=""orange"">+0</color> por uma Carta <color=""orange"">+1</color> FERIMENTO<sprite name=Wound>"
+PERK_Redguard_10,Fortitude Extrema
+PERK_Redguard_10_Desc,"Ignore efeitos de itens negativos e adicione duas cartas <color=""orange"">+1</color>"
+PERK_Voidwarden_01,Consistência
+PERK_Voidwarden_01_Desc,"Remova duas Cartas <color=""purple"">-1</color>"
+PERK_Voidwarden_02,Harmonia
+PERK_Voidwarden_02_Desc,"Remova uma Carta <color=""purple"">-2</color>"
+PERK_Voidwarden_03,Umbra
+PERK_Voidwarden_03_Desc,"Substitua uma Carta <color=""orange"">+0</color> por uma Carta <color=""orange"">+1</color> <sprite name=Dark>"
+PERK_Voidwarden_04,Geada
+PERK_Voidwarden_04_Desc,"Substitua uma Carta <color=""orange"">+0</color> por uma Carta <color=""orange"">+1</color> <sprite name=Ice>"
+PERK_Voidwarden_05,Restaurar
+PERK_Voidwarden_05_Desc,"Substitua uma carta <color=""purple"">-1</color> por uma carta <color=""orange"">+0</color> Cura <sprite name=Heal> 1 (Aliado)"
+PERK_Voidwarden_06,Reviver
+PERK_Voidwarden_06_Desc,"Adicione uma carta <color=""orange"">+1</color> Cura <sprite name=Heal> 1 (Aliado)"
+PERK_Voidwarden_07,Contaminar
+PERK_Voidwarden_07_Desc,"Adicione uma Carta <color=""orange"">+1</color> VENENO <sprite name=Poison>"
+PERK_Voidwarden_08,Desprezo
+PERK_Voidwarden_08_Desc,"Adicione uma Carta <color=""orange"">+1</color> MALDIÇÃO <sprite name=Curse>"
+PERK_Voidwarden_09,Resiliente
+PERK_Voidwarden_09_Desc,Ignore os efeitos negativos do cenário
+GUI_RippedFromTheFlesh_ReturnTheFavorite_TOOLTIP,Devolva a Marca Favorita ao Machadinha de um inimigo adjacente
+SandDevil,Diabo de Areia
+GUI_SandDevil_OverrideMove_TOOLTIP,Escolha Mover o Diabo de Areia ou pule para iniciar o turno do Guarda Vermelho
+GUI_ACTIVE_BONUS_SandDevil_ForceMove_TOOLTIP,"Force o personagem que ocupa o hexágono do Demônio de Areia a se Mover com ele.
+Você não pode encerrar a ação de Forçar o Movimento em um hexágono ocupado por outro personagem."
+GUI_DLC1_OWNED_TOOLTIP,"<b><color=#F3DDAB>DLC Mandíbulas do Leão</color></b>
+
+Uma nova ameaça sinistra está pairando sobre Gloomhaven. Uma série de desaparecimentos assolaram a cidade e cabe a vocês, bravos mercenários, lançar uma luz sobre esses eventos sombrios."
+BATTLEGOAL_Acrobat,Acrobata
+BATTLEGOAL_Acrobat_Desc,Queime uma carta para negar o sofrimento de 5 ou mais de dano.
+BATTLEGOAL_Agoraphobe,Agorafóbico
+BATTLEGOAL_Agoraphobe_Desc,Termine cada um de seus turnos adjacente a uma parede ou obstáculo.
+BATTLEGOAL_Altruist,Altruísta
+BATTLEGOAL_Altruist_Desc,Colete menos pilhas de ouro do que qualquer outro jogador.
+BATTLEGOAL_Assistant,Assistente
+BATTLEGOAL_Assistant_Desc,Mate um monstro atacado por qualquer um de seus aliados no início da mesma rodada.
+BATTLEGOAL_Challenger,Desafiador
+BATTLEGOAL_Challenger_Desc,Nunca deixe um hexágono adjacente a um monstro.
+BATTLEGOAL_Closer,Mais perto
+BATTLEGOAL_Closer_Desc,Mate o último monstro a morrer no cenário.
+BATTLEGOAL_Conservator,Conservador
+BATTLEGOAL_Conservator_Desc,Nunca queime uma carta para negar o dano sofrido.
+BATTLEGOAL_Egotist,Egoista
+BATTLEGOAL_Egotist_Desc,Colete mais fichas de dinheiro do que qualquer outro personagem.
+BATTLEGOAL_Gambler,Apostador
+BATTLEGOAL_Gambler_Desc,Mate um monstro com um ataque que tenha Desvantagem.
+BATTLEGOAL_Hothead,Cabeça quente
+BATTLEGOAL_Hothead_Desc,Execute duas ações com ícones de queimar antes de seu primeiro descanso.
+BATTLEGOAL_Insomniac,Insônia
+BATTLEGOAL_Insomniac_Desc,Sofra dano de um ataque na mesma rodada em que você realizar um descanço longo.
+BATTLEGOAL_Mugger,Assaltante
+BATTLEGOAL_Mugger_Desc,Mate um monstro e saqueie a ficha de dinheiro que ele deixar cair no mesmo turno.
+BATTLEGOAL_Pickpocket,Batedor de carteiras
+BATTLEGOAL_Pickpocket_Desc,Colete uma ou mais fichas de dinheiro realizando uma ação de Saque enquanto estiver adjacente a dois ou mais monstros.
+BATTLEGOAL_Pincushion,Alfinete
+BATTLEGOAL_Pincushion_Desc,Seja alvo de ataques de três ou mais monstros na mesma rodada.
+BATTLEGOAL_Plebeian,Plebeu
+BATTLEGOAL_Plebeian_Desc,Nunca mate um monstro de elite ou chefe.
+BATTLEGOAL_Prohibitionist,Proibicionista
+BATTLEGOAL_Prohibitionist_Desc,Nunca use uma poção.
+BATTLEGOAL_Ravager,Devastador
+BATTLEGOAL_Ravager_Desc,Execute duas ações com ícones de queimar no mesmo turno.
+BATTLEGOAL_Recluse,Recluso
+BATTLEGOAL_Recluse_Desc,Nunca termine seu turno adjacente a qualquer um de seus aliados.
+BATTLEGOAL_Shadow,Sombra
+BATTLEGOAL_Shadow_Desc,Termine cada um de seus turnos adjacente a qualquer um de seus aliados.
+BATTLEGOAL_Shirker,Preguiçoso
+BATTLEGOAL_Shirker_Desc,Mate um monstro não adjacente a você enquanto estiver adjacente a outro monstro.
+BATTLEGOAL_Specialist,Especialista
+BATTLEGOAL_Specialist_Desc,Nunca execute uma ação básica.
+BATTLEGOAL_Trailblazer,Pioneiro
+BATTLEGOAL_Trailblazer_Desc,Abra uma porta e termine o seu turno na sala revelada.
+BATTLEGOAL_Transmitter,Transmissor
+BATTLEGOAL_Transmitter_Desc,Aplique qualquer condição negativa a um monstro enquanto você tiver qualquer condição negativa.
+BATTLEGOAL_Weakling,Fraco
+BATTLEGOAL_Weakling_Desc,Torne-se exausto antes de qualquer outro personagem.
+GUI_QUEST_TREASURE_REWARDS,{0} Caixas
