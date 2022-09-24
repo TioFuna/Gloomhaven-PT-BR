@@ -19,22 +19,12 @@ Localização / Tradução Português - Brasil / PT-BR
    ```
    C:\Users\NOME_DO_USUARIO\AppData\LocalLow\FlamingFowlStudios\Gloomhaven\GloomMods\L10n PT-BR\LangPacks
    ```
-
-- **Epic**
-
-   Baixe os arquivos do último _release_ e coloque na pasta do jogo destinada aos mods.
-   ```
-   ??? descobrindo como faz :D
-   ```
-   
-- **GoG**
-   Baixe os arquivos do último _release_ e coloque na pasta do jogo destinada aos mods.
-   ```
-   ??? sem acesso, quando tiver, coloco aqui
-   ```
-:warning: ( não esqueça de trocar **NOME_DO_USUARIO** para o usuário que você esta logado no computador )
-
+     :warning: ( não esqueça de trocar **NOME_DO_USUARIO** para o usuário que você esta logado no computador )
 <br><br>
+- **GoG** e **Epic**
+   A princípio os mods, o modo qual a localização é feita na Steam, não funciona ou está desabilitada nestas plataformas.
+   Vamos aguardar se teremos uma solução no fturo. Caso positivo, eu atualizo aqui.
+<br>
 
 ## Último Release (v. 1.0.10605.27992)
 
