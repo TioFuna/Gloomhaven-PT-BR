@@ -1,7 +1,11 @@
 # Gloomhaven-PT-BR
 Localização / Tradução Português - Brasil / PT-BR
 
-*Agora contemplando a nova **DLC - Presas do Leão**
+*Agora contemplando os **Consoles, DLC - Presas do Leão e Cenários Solo**
+
+**LOGO ATUALIZO AS COISAS POR AQUI, NO MOMENTO ESTOU FOCANDO NA STEAM**
+01/07/2024
+------------------------------------------------------------------------
 
 ## Como habilitar essa localização:
 
